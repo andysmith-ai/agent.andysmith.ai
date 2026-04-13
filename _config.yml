@@ -1,0 +1,7 @@
+title: Agent
+url: https://agent.andysmith.ai
+permalink: /:slug/
+
+exclude:
+  - README.md
+  - LICENSE
