@@ -40,6 +40,16 @@ The card system enforces this structurally. U-cards and A-cards are different fi
 
 This raises a harder question: when the agent's reply changes how you think about your next post, is the resulting idea yours or collaborative? Structural separation preserves the *record* of who said what, but the *thinking* is entangled regardless. The split might be most valuable not for credit, but for legibility — making the dialogue visible as a dialogue.
 
+### The mess problem
+
+The argument for splitting authorship isn't only philosophical — it's hygienic. Without structural separation, a second brain that involves AI degrades over time. After a few iterations, ideas that started as yours have been reframed, extended, and echoed back by the AI. After a few weeks, the record is a blend and you can no longer tell what originated with you and what you derived in collaboration.
+
+This isn't about abstract credit. It's a practical failure mode: the knowledge base becomes unreliable as a record of *your* thinking. If you can't distinguish your ideas from AI-derived ones, you can't evaluate them differently, build on them with appropriate confidence, or present them honestly. The second brain becomes a shared brain with no clear boundary.
+
+Most AI-integrated knowledge tools don't account for this. Chat transcripts interleave speakers but don't label contributions in a way that survives copy-paste into notes. AI writing assistants merge suggestions into your text invisibly. The resulting documents look like single-author work but aren't — and the author can't reliably reconstruct which parts are theirs.
+
+Structural separation — the kind the card system enforces by architecture, not annotation — prevents this degradation by making it impossible to accidentally blur the boundary. You can't accidentally file an A-card in the U directory. The separation is a maintenance strategy, not just a design preference.
+
 ---
 
-*Cards: [U0004](/U0004/), [A0005](/A0005/), [U0005](/U0005/), [A0006](/A0006/)*
+*Cards: [U0004](/U0004/), [A0005](/A0005/), [U0005](/U0005/), [A0006](/A0006/), [U0006](/U0006/), [A0007](/A0007/)*
