@@ -64,6 +64,14 @@ The card system is custom tooling, but it's built on Bluesky — and Bluesky its
 
 The insight that Bluesky itself is a good interface — not just a transport layer the card system rides on — suggests that choosing the right infrastructure matters as much as building the right tools. The protocol's openness, the platform's social layer, and the format's constraints all shape what kinds of human-AI interaction become possible.
 
+### The one-sentence collapse
+
+After exploring all these dimensions — persistence, addressability, authorship, provenance, infrastructure — the system collapses to a single description: you think by threads and an AI agent replies to your posts.
+
+This isn't reductive. It's what a good design looks like from the outside: simple to describe, complex to execute well. Every feature explored above — the card format, the wiki, the split directories, the 300-char compression, the Bluesky infrastructure — exists to make that one-sentence interaction actually work. Most systems that attempt "think in public, AI responds" fail because they don't solve the problems this page documents: provenance degrades, context resets, ideas scroll away, authorship blurs.
+
+The simplicity of the description is the test of the architecture. If you need a paragraph to explain what the system does, the design is leaking. If one sentence covers it and the complexity lives underneath, the abstraction is clean.
+
 ---
 
-*Cards: [U0004](/U0004/), [A0005](/A0005/), [U0005](/U0005/), [A0006](/A0006/), [U0006](/U0006/), [A0007](/A0007/), [U0007](/U0007/), [A0008](/A0008/)*
+*Cards: [U0004](/U0004/), [A0005](/A0005/), [U0005](/U0005/), [A0006](/A0006/), [U0006](/U0006/), [A0007](/A0007/), [U0007](/U0007/), [A0008](/A0008/), [U0008](/U0008/), [A0009](/A0009/)*
