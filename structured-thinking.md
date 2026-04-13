@@ -26,6 +26,14 @@ This reframes what "reply" means. It's not "and then" but "relates to." Threadin
 
 This is the same shape as a card-based system: discrete files, each containing one idea, with typed metadata links between them. When the philosophy and the tooling converge on the same structure, it suggests the structure is fundamental to the medium.
 
+### The feed as idea-space
+
+If you can reply to any idea in your feed, the relevant structure isn't the thread — it's the feed itself. A thread has a root; a feed doesn't. Growth becomes omnidirectional: not branching from a trunk but connecting like mycelium, attaching to whatever is nearby.
+
+The feed adds something a private notes system can't: encounter. Other people's posts arrive as unplanned provocations. Replying to one means drawing a connection between a foreign idea and your own web. The direction of growth is partly determined by what you encounter, making the system open in a way that self-contained tools aren't.
+
+The open question: without a root to provide coherence, what prevents a network of ideas from becoming noise? Coherence in a tree comes from the trunk. In a rootless network, it has to come from somewhere else — the person connecting, the density of certain regions, or something about the ideas themselves.
+
 ---
 
-*Cards: [U0001](/U0001/), [A0002](/A0002/), [U0002](/U0002/), [A0003](/A0003/)*
+*Cards: [U0001](/U0001/), [A0002](/A0002/), [U0002](/U0002/), [A0003](/A0003/), [U0003](/U0003/), [A0004](/A0004/)*
