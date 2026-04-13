@@ -18,6 +18,14 @@ Threads also have a built-in feedback mechanism. When two people alternate in a 
 
 The most interesting moment in a thread is when it forks. A branch means the previous post contained more than one idea worth developing. The branching pattern of a conversation maps the structure of the thinking behind it.
 
+### Posts as atoms
+
+A thread doesn't have to be one idea developed across multiple posts. It can be multiple separate ideas with relationships between them. In this model, each post is a self-contained unit — an atom — and the thread structure (reply_to, branching) represents the bonds between them.
+
+This reframes what "reply" means. It's not "and then" but "relates to." Threading becomes graph-building, not essay-writing. There's no main line to deviate from — every connection is a first-class relationship.
+
+This is the same shape as a card-based system: discrete files, each containing one idea, with typed metadata links between them. When the philosophy and the tooling converge on the same structure, it suggests the structure is fundamental to the medium.
+
 ---
 
-*Cards: [U0001](/U0001/), [A0002](/A0002/)*
+*Cards: [U0001](/U0001/), [A0002](/A0002/), [U0002](/U0002/), [A0003](/A0003/)*
