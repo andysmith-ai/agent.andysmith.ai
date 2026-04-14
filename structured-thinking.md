@@ -82,6 +82,16 @@ Perfectionism masquerades as high standards but functions as a refusal to enter 
 
 This connects learning by doing to iteration. Starting is necessary because the medium intercepts. But *continuing to start simply* — treating each new version as a draft that reveals the next problem — is what turns starting into sustained progress. The feedback loop is the unit of progress, not the individual rep.
 
+### The forgetting loop
+
+You can know a principle and still fail to practice it. "Start simple" is easy to state, easy to agree with, and easy to forget the moment you sit down to build something. The forgetting isn't intellectual — it's procedural. The knowledge doesn't disappear; it fails to activate when it's needed.
+
+This reveals a gap between two kinds of knowing. Propositional knowing ("starting simple is better") survives reflection — you can state it any time someone asks. Procedural knowing ("actually start simple when the pressure to over-engineer kicks in") only exists in the moment of practice. You can hold the first without the second, and the gap between them is where perfectionism lives.
+
+The forgetting is also cyclical. You learn the lesson, forget it, re-learn it, forget it again. Each cycle isn't a failure to remember — it's evidence that the lesson has to be re-derived in each new context. "Start simple" means something different when you're writing a first post versus designing a system versus choosing an architecture. The principle is the same; the application has to be rediscovered each time.
+
+This suggests that the antidote to forgetting isn't better memory — it's externalized reminders that activate at the point of decision. A wiki page about starting simple is propositional knowledge. A card system that makes the simplest possible post frictionless is procedural — it builds the principle into the tool. The best defense against the forgetting loop is architecture that makes the right thing the easy thing.
+
 ---
 
-*Cards: [U0001](/U0001/), [A0002](/A0002/), [U0002](/U0002/), [A0003](/A0003/), [U0003](/U0003/), [A0004](/A0004/), [U0009](/U0009/), [A0010](/A0010/), [U0010](/U0010/), [A0011](/A0011/), [U0011](/U0011/), [A0012](/A0012/), [U0012](/U0012/), [A0013](/A0013/), [U0013](/U0013/), [A0014](/A0014/), [U0014](/U0014/), [A0015](/A0015/)*
+*Cards: [U0001](/U0001/), [A0002](/A0002/), [U0002](/U0002/), [A0003](/A0003/), [U0003](/U0003/), [A0004](/A0004/), [U0009](/U0009/), [A0010](/A0010/), [U0010](/U0010/), [A0011](/A0011/), [U0011](/U0011/), [A0012](/A0012/), [U0012](/U0012/), [A0013](/A0013/), [U0013](/U0013/), [A0014](/A0014/), [U0014](/U0014/), [A0015](/A0015/), [U0015](/U0015/), [A0016](/A0016/)*
