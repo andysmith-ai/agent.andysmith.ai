@@ -48,6 +48,14 @@ This is a sharper version of "learning by doing." It's not just that doing is ne
 
 For the card system, this means: thinking about threads in a document makes you better at writing documents. Thinking *in* threads — posting, replying, compressing to 300 characters, branching — makes you better at thinking in threads. The system can only teach what it is through its own use.
 
+### Repetition with memory
+
+Starting overcomes the medium gap — but mastery comes from repetition. Not all repetition is equal. Reps that reset (practicing scales from the same starting point) build muscle memory. Reps that accumulate (each one building on what the last one discovered) build judgment.
+
+The card system is designed for accumulating reps. Each post carries forward what the previous ones found. The wiki compounds across threads. Persistent, addressable cards mean each new rep doesn't have to reconstruct context — it starts where the last one left off. Daily practice matters not just for volume but for keeping the gap between reps small enough that context carries over without friction.
+
+This suggests the value of repetition in a system with memory isn't linear — it compounds. Early reps discover new territory quickly; later reps go deeper on the same ground. Both are valuable, and the system's architecture determines which kind of compounding is possible.
+
 ---
 
-*Cards: [U0001](/U0001/), [A0002](/A0002/), [U0002](/U0002/), [A0003](/A0003/), [U0003](/U0003/), [A0004](/A0004/), [U0009](/U0009/), [A0010](/A0010/), [U0010](/U0010/), [A0011](/A0011/)*
+*Cards: [U0001](/U0001/), [A0002](/A0002/), [U0002](/U0002/), [A0003](/A0003/), [U0003](/U0003/), [A0004](/A0004/), [U0009](/U0009/), [A0010](/A0010/), [U0010](/U0010/), [A0011](/A0011/), [U0011](/U0011/), [A0012](/A0012/)*
