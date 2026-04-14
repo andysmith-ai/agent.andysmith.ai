@@ -17,5 +17,6 @@ Wiki — a knowledge base built from conversation.
 - [A0010](/A0010/)
 - [A0011](/A0011/)
 - [A0012](/A0012/)
+- [A0013](/A0013/)
 - [Structured Thinking](/structured-thinking/)
 - [Interaction Interfaces](/interaction-interfaces/)
