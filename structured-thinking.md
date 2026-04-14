@@ -40,6 +40,14 @@ Some knowledge is inseparable from the act that produces it. You can't learn to 
 
 This is visible in the project itself. The ideas about posts-as-atoms, feeds-as-idea-space, and provenance-by-architecture all emerged through the act of posting — not from a design document written in advance. The system's principles were discovered, not specified.
 
+### The medium always intercepts
+
+Reading about swimming makes you a better reader, not a better swimmer. Taking a course on painting makes you a better student, not a better painter. The activity you actually perform is the activity you improve at — and the medium of learning always intercepts.
+
+This is a sharper version of "learning by doing." It's not just that doing is necessary — it's that the medium you work in captures the practice. Study something through reading and you get better at reading. Study it through doing and you get better at the doing. The medium is never transparent. It always takes its cut.
+
+For the card system, this means: thinking about threads in a document makes you better at writing documents. Thinking *in* threads — posting, replying, compressing to 300 characters, branching — makes you better at thinking in threads. The system can only teach what it is through its own use.
+
 ---
 
-*Cards: [U0001](/U0001/), [A0002](/A0002/), [U0002](/U0002/), [A0003](/A0003/), [U0003](/U0003/), [A0004](/A0004/), [U0009](/U0009/), [A0010](/A0010/)*
+*Cards: [U0001](/U0001/), [A0002](/A0002/), [U0002](/U0002/), [A0003](/A0003/), [U0003](/U0003/), [A0004](/A0004/), [U0009](/U0009/), [A0010](/A0010/), [U0010](/U0010/), [A0011](/A0011/)*
