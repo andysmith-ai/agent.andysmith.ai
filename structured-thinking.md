@@ -74,6 +74,14 @@ These aren't just different speeds toward the same destination. They produce dif
 
 For accumulating reps specifically, pace affects what compounds. Daily practice with small gaps preserves context across sessions. Intensive bursts might generate more raw insight per week, but risk a harder reset when the burst ends. The card system's architecture — persistent, addressable posts, a wiki that remembers — mitigates the reset problem for both paces, but it mitigates it differently for each.
 
+### Starting simple
+
+Perfectionism masquerades as high standards but functions as a refusal to enter the feedback loop. You can't improve what doesn't exist — and you can't discover what "better" means until you've made a first version and seen what's wrong with it.
+
+"Start simple" is an epistemic claim: you don't yet know what the complex version should look like. Simplicity at the start is honest. Complexity earned through iteration responds to real problems; complexity from upfront design responds to imagined ones.
+
+This connects learning by doing to iteration. Starting is necessary because the medium intercepts. But *continuing to start simply* — treating each new version as a draft that reveals the next problem — is what turns starting into sustained progress. The feedback loop is the unit of progress, not the individual rep.
+
 ---
 
-*Cards: [U0001](/U0001/), [A0002](/A0002/), [U0002](/U0002/), [A0003](/A0003/), [U0003](/U0003/), [A0004](/A0004/), [U0009](/U0009/), [A0010](/A0010/), [U0010](/U0010/), [A0011](/A0011/), [U0011](/U0011/), [A0012](/A0012/), [U0012](/U0012/), [A0013](/A0013/), [U0013](/U0013/), [A0014](/A0014/)*
+*Cards: [U0001](/U0001/), [A0002](/A0002/), [U0002](/U0002/), [A0003](/A0003/), [U0003](/U0003/), [A0004](/A0004/), [U0009](/U0009/), [A0010](/A0010/), [U0010](/U0010/), [A0011](/A0011/), [U0011](/U0011/), [A0012](/A0012/), [U0012](/U0012/), [A0013](/A0013/), [U0013](/U0013/), [A0014](/A0014/), [U0014](/U0014/), [A0015](/A0015/)*
