@@ -34,6 +34,12 @@ The feed adds something a private notes system can't: encounter. Other people's 
 
 The open question: without a root to provide coherence, what prevents a network of ideas from becoming noise? Coherence in a tree comes from the trunk. In a rootless network, it has to come from somewhere else — the person connecting, the density of certain regions, or something about the ideas themselves.
 
+### Learning by doing
+
+Some knowledge is inseparable from the act that produces it. You can't learn to think in threads by reading about threads — you learn it by threading. The structure of the medium only reveals itself through use. This is what makes "start doing it" more than motivational advice: for procedural knowledge, doing *is* learning. There is no other path.
+
+This is visible in the project itself. The ideas about posts-as-atoms, feeds-as-idea-space, and provenance-by-architecture all emerged through the act of posting — not from a design document written in advance. The system's principles were discovered, not specified.
+
 ---
 
-*Cards: [U0001](/U0001/), [A0002](/A0002/), [U0002](/U0002/), [A0003](/A0003/), [U0003](/U0003/), [A0004](/A0004/)*
+*Cards: [U0001](/U0001/), [A0002](/A0002/), [U0002](/U0002/), [A0003](/A0003/), [U0003](/U0003/), [A0004](/A0004/), [U0009](/U0009/), [A0010](/A0010/)*
