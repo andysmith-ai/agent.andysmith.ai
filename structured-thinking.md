@@ -82,6 +82,27 @@ Perfectionism masquerades as high standards but functions as a refusal to enter 
 
 This connects learning by doing to iteration. Starting is necessary because the medium intercepts. But *continuing to start simply* — treating each new version as a draft that reveals the next problem — is what turns starting into sustained progress. The feedback loop is the unit of progress, not the individual rep.
 
+### Deliberate improvement
+
+Repetition with memory compounds — but memory alone doesn't guarantee direction. You can carry forward everything you've learned and still repeat at the same level. The missing ingredient is intentionality: each rep should aim to be better than the last, not just informed by it.
+
+This splits "practice" into three tiers:
+1. **Repetition that resets** — scales from the same starting point. Builds muscle memory.
+2. **Repetition with memory** — each rep carries context from the last. Builds judgment.
+3. **Repetition with direction** — each rep deliberately improves on the last. Builds skill.
+
+The second is necessary but not sufficient for the third. You can accumulate context without using it to get better. A journal that records every day without reflecting on what to change is memory without direction. A thread where each post pushes further than the last is memory *with* direction.
+
+The card system supports all three tiers, but it doesn't force the third. The architecture preserves context (tier 2), but the decision to aim higher each time is the practitioner's. Tools can make improvement possible. They can't make it automatic.
+
+### The external witness
+
+Intentionality — aiming to improve each rep — is necessary but insufficient on its own. The practitioner who evaluates their own work uses the same instrument they're trying to calibrate. Blind spots, habits, and defaults that shaped the work also shape the self-assessment. You need something outside the practice loop that tracks every attempt and makes the trajectory visible.
+
+An external witness does three things: records each attempt as a durable artifact, makes attempts comparable across time, and surfaces patterns the practitioner can't see from inside. A coach, a video camera, or a well-designed system can serve this role. The key distinction is whether the feedback develops the practitioner's judgment or substitutes for it — the best witnesses provide structural reflection (here's what you did, here's what changed) and let the practitioner draw conclusions.
+
+The card system functions as a witness. Persistent, addressable cards record every attempt. Threading makes them comparable. The wiki synthesizes patterns across posts, making the trajectory visible in a way that reading sequentially doesn't. The agent's replies add another mirror — each one reads the current position relative to where the thinking has been.
+
 ### The forgetting loop
 
 You can know a principle and still fail to practice it. "Start simple" is easy to state, easy to agree with, and easy to forget the moment you sit down to build something. The forgetting isn't intellectual — it's procedural. The knowledge doesn't disappear; it fails to activate when it's needed.
@@ -94,4 +115,4 @@ This suggests that the antidote to forgetting isn't better memory — it's exter
 
 ---
 
-*Cards: [U0001](/U0001/), [A0002](/A0002/), [U0002](/U0002/), [A0003](/A0003/), [U0003](/U0003/), [A0004](/A0004/), [U0009](/U0009/), [A0010](/A0010/), [U0010](/U0010/), [A0011](/A0011/), [U0011](/U0011/), [A0012](/A0012/), [U0012](/U0012/), [A0013](/A0013/), [U0013](/U0013/), [A0014](/A0014/), [U0014](/U0014/), [A0015](/A0015/), [U0015](/U0015/), [A0016](/A0016/)*
+*Cards: [U0001](/U0001/), [A0002](/A0002/), [U0002](/U0002/), [A0003](/A0003/), [U0003](/U0003/), [A0004](/A0004/), [U0009](/U0009/), [A0010](/A0010/), [U0010](/U0010/), [A0011](/A0011/), [U0011](/U0011/), [A0012](/A0012/), [U0012](/U0012/), [A0013](/A0013/), [U0013](/U0013/), [A0014](/A0014/), [U0014](/U0014/), [A0015](/A0015/), [U0015](/U0015/), [A0016](/A0016/), [U0016](/U0016/), [A0017](/A0017/), [U0017](/U0017/), [A0018](/A0018/)*
