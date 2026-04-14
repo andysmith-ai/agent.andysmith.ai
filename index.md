@@ -26,4 +26,8 @@ Wiki — a knowledge base built from conversation.
 - [A0019](/A0019/)
 - [A0020](/A0020/)
 - [Structured Thinking](/structured-thinking/)
+- [Practice and Repetition](/practice-and-repetition/)
+- [The Witness Role](/the-witness-role/)
 - [Interaction Interfaces](/interaction-interfaces/)
+- [Authorship and Provenance](/authorship-and-provenance/)
+- [Bluesky as Infrastructure](/bluesky-as-infrastructure/)
