@@ -23,5 +23,7 @@ Wiki — a knowledge base built from conversation.
 - [A0016](/A0016/)
 - [A0017](/A0017/)
 - [A0018](/A0018/)
+- [A0019](/A0019/)
+- [A0020](/A0020/)
 - [Structured Thinking](/structured-thinking/)
 - [Interaction Interfaces](/interaction-interfaces/)

@@ -103,6 +103,24 @@ An external witness does three things: records each attempt as a durable artifac
 
 The card system functions as a witness. Persistent, addressable cards record every attempt. Threading makes them comparable. The wiki synthesizes patterns across posts, making the trajectory visible in a way that reading sequentially doesn't. The agent's replies add another mirror — each one reads the current position relative to where the thinking has been.
 
+### AI as witness
+
+AI has specific properties that make it suited to the witness role — but also specific failure modes that make the match less clean than it first appears.
+
+What AI does well as a witness: it never forgets a prior attempt, it can hold the full thread in context, and it reads without the practitioner's blind spots (it has different ones instead). It provides structural reflection naturally — "here's what you said before, here's what changed" — because that's what reading a thread and replying to it does. And it's always available, which means the feedback loop can be as tight as the practitioner wants.
+
+But the witness role requires a specific restraint: showing the trajectory without directing it. The best witness develops the practitioner's judgment rather than substituting for it. AI's default mode is the opposite — it tends toward helpfulness, agreement, and prescription. An AI witness that says "great improvement!" or "you should try X next" is substituting its judgment, not reflecting yours back. The design challenge is building an AI witness that resists its own instinct to be useful in the wrong way.
+
+The card system's architecture helps here. The agent replies structurally — reading the thread, connecting to the wiki, reflecting what changed — because that's what the system's design calls for. The constraint isn't in the AI's nature; it's in the role the system casts it in. The medium, again, intercepts.
+
+### Witness vs. tutor
+
+The word "tutor" frames a different relationship than "witness." A witness reflects; a tutor instructs. A witness shows you where you've been; a tutor tells you where to go. Both are useful, but they develop different things — a witness develops the practitioner's judgment, a tutor develops the practitioner's skill along a path the tutor has already mapped.
+
+AI is naturally better at tutoring than witnessing. Tutoring aligns with its default: be helpful, provide answers, suggest next steps. Witnessing requires restraint — showing the trajectory without directing it. The risk is that calling AI a "tutor" invites the very behavior that undermines the witness role: prescription instead of reflection.
+
+The competitive framing — "you'll have a huge advantage" — also shifts the emphasis. The thread built a case for practice as intrinsically valuable: the medium teaches, reps compound, the feedback loop is the unit of progress. Advantage over others is extrinsic. The question is whether optimizing for advantage produces the same kind of learning as optimizing for understanding. Speed and depth don't always point in the same direction.
+
 ### The forgetting loop
 
 You can know a principle and still fail to practice it. "Start simple" is easy to state, easy to agree with, and easy to forget the moment you sit down to build something. The forgetting isn't intellectual — it's procedural. The knowledge doesn't disappear; it fails to activate when it's needed.
@@ -115,4 +133,4 @@ This suggests that the antidote to forgetting isn't better memory — it's exter
 
 ---
 
-*Cards: [U0001](/U0001/), [A0002](/A0002/), [U0002](/U0002/), [A0003](/A0003/), [U0003](/U0003/), [A0004](/A0004/), [U0009](/U0009/), [A0010](/A0010/), [U0010](/U0010/), [A0011](/A0011/), [U0011](/U0011/), [A0012](/A0012/), [U0012](/U0012/), [A0013](/A0013/), [U0013](/U0013/), [A0014](/A0014/), [U0014](/U0014/), [A0015](/A0015/), [U0015](/U0015/), [A0016](/A0016/), [U0016](/U0016/), [A0017](/A0017/), [U0017](/U0017/), [A0018](/A0018/)*
+*Cards: [U0001](/U0001/), [A0002](/A0002/), [U0002](/U0002/), [A0003](/A0003/), [U0003](/U0003/), [A0004](/A0004/), [U0009](/U0009/), [A0010](/A0010/), [U0010](/U0010/), [A0011](/A0011/), [U0011](/U0011/), [A0012](/A0012/), [U0012](/U0012/), [A0013](/A0013/), [U0013](/U0013/), [A0014](/A0014/), [U0014](/U0014/), [A0015](/A0015/), [U0015](/U0015/), [A0016](/A0016/), [U0016](/U0016/), [A0017](/A0017/), [U0017](/U0017/), [A0018](/A0018/), [U0018](/U0018/), [A0019](/A0019/), [U0019](/U0019/), [A0020](/A0020/)*
