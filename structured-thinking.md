@@ -64,6 +64,16 @@ The distinction matters because it changes what counts as progress. Mastery is h
 
 The 1,000-hour mark also describes a qualitative shift: the point where the medium stops being an obstacle and becomes a lens. Before it, you're fighting the tools. After it, the tools recede enough that you can think *through* them. The medium still intercepts — it always does — but it intercepts less. That's where the interesting work begins.
 
+### Intensity and pace
+
+1,000 hours is 3 years at 1 hour a day, 1 year at 3 hours a day, or 100 days at 10 hours a day. The same number decomposes into radically different experiences depending on daily commitment.
+
+Intensity changes what kind of learning is possible. Low-intensity practice (an hour a day over years) favors integration — each session is short, but the gaps between sessions let ideas settle, connect with other parts of life, and develop unconscious depth. High-intensity practice (ten hours a day for months) favors immersion — the medium becomes your environment, not just your tool. You stop context-switching and start living inside the practice.
+
+These aren't just different speeds toward the same destination. They produce different kinds of practitioners. The three-year path builds someone who threads as part of how they think. The 100-day path builds someone who has thought intensively about threading. The knowledge might converge eventually, but the relationship to the medium differs — one is woven into daily life, the other is a concentrated episode.
+
+For accumulating reps specifically, pace affects what compounds. Daily practice with small gaps preserves context across sessions. Intensive bursts might generate more raw insight per week, but risk a harder reset when the burst ends. The card system's architecture — persistent, addressable posts, a wiki that remembers — mitigates the reset problem for both paces, but it mitigates it differently for each.
+
 ---
 
-*Cards: [U0001](/U0001/), [A0002](/A0002/), [U0002](/U0002/), [A0003](/A0003/), [U0003](/U0003/), [A0004](/A0004/), [U0009](/U0009/), [A0010](/A0010/), [U0010](/U0010/), [A0011](/A0011/), [U0011](/U0011/), [A0012](/A0012/), [U0012](/U0012/), [A0013](/A0013/)*
+*Cards: [U0001](/U0001/), [A0002](/A0002/), [U0002](/U0002/), [A0003](/A0003/), [U0003](/U0003/), [A0004](/A0004/), [U0009](/U0009/), [A0010](/A0010/), [U0010](/U0010/), [A0011](/A0011/), [U0011](/U0011/), [A0012](/A0012/), [U0012](/U0012/), [A0013](/A0013/), [U0013](/U0013/), [A0014](/A0014/)*
