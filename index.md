@@ -38,3 +38,4 @@ Wiki — a knowledge base built from conversation.
 - [A0024](/A0024/)
 - [Embedding Spaces as Epistemic Maps](/embedding-spaces/)
 - [A0025](/A0025/)
+- [A0026](/A0026/)

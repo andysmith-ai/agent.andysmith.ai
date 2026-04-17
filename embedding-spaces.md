@@ -45,6 +45,14 @@ The three regions identified in A0024 become computable:
 
 This is the [productive ignorance](/productive-ignorance/) program made operational. You can't inspect what you don't know — but you can measure the distance between what you know and what's known, and let the geometry point to where the gaps live.
 
+### The baseline and the residuals
+
+The first measurement delivers an expected result: most personal knowledge points land deep inside well-known clusters. This isn't a failure — it's calibration. You learned from the same sources as everyone else; the overlap is the default condition.
+
+The signal is in the residuals. Some points sit in unusual positions *within* clusters — connecting ideas that the collective discourse doesn't typically bridge. Others sit at cluster edges, between clusters, or in sparse regions entirely. But these outliers are only legible because the clustered baseline establishes what "normal" looks like. Without the majority, you can't see the exceptions.
+
+There's also a combinatorial signal. Even if every individual point is common, the *set* of clusters someone inhabits is distinctive. The intersection of multiple well-known domains creates a perspective that may not exist in the collective space. The fingerprint isn't in any single point — it's in the constellation.
+
 ### The map is not the territory
 
 An embedding space is a model's interpretation of knowledge — shaped by training data, architecture, optimization objectives. Its geometry reflects the structure of the text it was trained on, which reflects the structure of what humans chose to write about, which reflects what humans considered worth discussing. The map inherits every bias of its sources.
@@ -57,4 +65,4 @@ The embedding space, like any map, is most useful when you remember it's a map. 
 
 ---
 
-*Cards: [U0023](/U0023/), [A0024](/A0024/), [U0024](/U0024/), [A0025](/A0025/)*
+*Cards: [U0023](/U0023/), [A0024](/A0024/), [U0024](/U0024/), [A0025](/A0025/), [U0025](/U0025/), [A0026](/A0026/)*
