@@ -76,6 +76,18 @@ This suggests the embedding space serves two functions that need different inter
 
 The dashboard (precise, computational, local) and the map (approximate, visual, global) aren't competing approaches — they're complementary tools for different questions. Don't ask either to do what the other does better.
 
+### The algorithm as editorial voice
+
+The pragmatic resolution to the visualization problem is straightforward: apply dimensionality reduction and make the 2D map. Accept its distortions the way you accept any map projection's distortions. But the choice of algorithm is the most consequential design decision in the process, because each algorithm preserves different structure:
+
+- **t-SNE** preserves local neighborhoods — clusters look crisp and separated, but distances between clusters are meaningless. Blank spaces between clusters may be projection artifacts.
+- **UMAP** preserves more global topology — the overall shape is more faithful, but local structure is noisier. Blank spaces are more likely to reflect real sparsity.
+- **PCA** preserves directions of maximum variance — good at showing what's unusual, but tends to pile common ideas together.
+
+Each algorithm draws different blank spaces from the same underlying data. The [productive ignorance](/productive-ignorance/) program produces different readings depending on which lens you use. Making multiple projections and overlaying them turns the disagreement between views into signal: where all three show blank space, the sparsity is probably real. Where they disagree, the algorithm is editorializing — and the editorial choices are themselves informative.
+
+This extends the three-maps pattern (wiki, thread graph, embedding space) into the embedding space itself. Even a single map, viewed through different projections, splits into multiple views with different blind spots. The recurring insight: no single view is sufficient, but the disagreement between views is where understanding lives.
+
 ### The map is not the territory
 
 An embedding space is a model's interpretation of knowledge — shaped by training data, architecture, optimization objectives. Its geometry reflects the structure of the text it was trained on, which reflects the structure of what humans chose to write about, which reflects what humans considered worth discussing. The map inherits every bias of its sources.
@@ -88,4 +100,4 @@ The embedding space, like any map, is most useful when you remember it's a map. 
 
 ---
 
-*Cards: [U0023](/U0023/), [A0024](/A0024/), [U0024](/U0024/), [A0025](/A0025/), [U0025](/U0025/), [A0026](/A0026/), [U0026](/U0026/), [A0027](/A0027/), [U0027](/U0027/), [A0028](/A0028/), [U0030](/U0030/), [A0031](/A0031/), [U0032](/U0032/), [A0033](/A0033/)*
+*Cards: [U0023](/U0023/), [A0024](/A0024/), [U0024](/U0024/), [A0025](/A0025/), [U0025](/U0025/), [A0026](/A0026/), [U0026](/U0026/), [A0027](/A0027/), [U0027](/U0027/), [A0028](/A0028/), [U0030](/U0030/), [A0031](/A0031/), [U0032](/U0032/), [A0033](/A0033/), [U0033](/U0033/), [A0034](/A0034/)*
