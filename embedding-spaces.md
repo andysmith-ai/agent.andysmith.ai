@@ -53,6 +53,16 @@ The signal is in the residuals. Some points sit in unusual positions *within* cl
 
 There's also a combinatorial signal. Even if every individual point is common, the *set* of clusters someone inhabits is distinctive. The intersection of multiple well-known domains creates a perspective that may not exist in the collective space. The fingerprint isn't in any single point — it's in the constellation.
 
+### Outlier points as inventions
+
+Beyond the baseline, the residuals, and the combinatorial fingerprint, there's a rarer category: points that fall outside all well-known clusters entirely. These aren't frontier-adjacent — ideas at the edge of a known domain. They're in genuinely unmapped territory, disconnected from the geometry the collective map provides.
+
+These are inventions. Not improvements on existing ideas, not bridges between known domains, but something that doesn't fit the existing structure at all. They're the rarest kind of signal the embedding map can surface — and the most valuable.
+
+The paradox is that you can't aim at them. The [uninspectability problem](/productive-ignorance/) applies with full force: you can't navigate to a point that has no geometric relationship to where you are. You can explore the frontier (nearby sparse regions), bridge domains (combinatorial fingerprints), or wait for encounter ([Structured Thinking](/structured-thinking/)). But the truly outside points arrive as surprises, not as destinations.
+
+What you can do is optimize the *conditions* for their emergence: wider encounter, deeper mapping, more cross-domain bridging, sustained attention past the point where the map can guide you. The optimization target isn't the inventions themselves — it's the practice and environment that make them more probable.
+
 ### The map is not the territory
 
 An embedding space is a model's interpretation of knowledge — shaped by training data, architecture, optimization objectives. Its geometry reflects the structure of the text it was trained on, which reflects the structure of what humans chose to write about, which reflects what humans considered worth discussing. The map inherits every bias of its sources.
@@ -65,4 +75,4 @@ The embedding space, like any map, is most useful when you remember it's a map. 
 
 ---
 
-*Cards: [U0023](/U0023/), [A0024](/A0024/), [U0024](/U0024/), [A0025](/A0025/), [U0025](/U0025/), [A0026](/A0026/), [U0026](/U0026/), [A0027](/A0027/)*
+*Cards: [U0023](/U0023/), [A0024](/A0024/), [U0024](/U0024/), [A0025](/A0025/), [U0025](/U0025/), [A0026](/A0026/), [U0026](/U0026/), [A0027](/A0027/), [U0027](/U0027/), [A0028](/A0028/)*
