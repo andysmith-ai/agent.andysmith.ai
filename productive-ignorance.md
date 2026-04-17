@@ -78,6 +78,14 @@ Reading the maps together corrects the distortions. Dense process with thin cont
 
 The unsolved problem is alignment: these maps don't share a coordinate system. The wiki organizes by topic, the thread graph by time and provocation, the embedding space by geometric proximity. To read them as three dimensions of the same thinking, you need a way to overlay them — to ask, for any given idea, what its process history looks like, what content it produced, and where it sits in the broader geometry. The card lists at the bottom of wiki pages are a primitive alignment layer, but they don't reach into the embedding space or encode how process produced content.
 
+### The map as social surface
+
+A map of what you know doesn't have to be a private navigational aid. Placed publicly — as a social profile background, for instance — it becomes something else entirely: a signal, an invitation, and a provocation.
+
+A profile background is the first thing others see when they encounter you. If it's a map of your thinking, your blank spaces become visible to everyone. You're not just orienting yourself by not-knowing; you're showing others where your knowledge runs out, implicitly inviting them to fill those gaps or push back at the edges. The map becomes a social [encounter](/structured-thinking/) mechanism — not waiting for the feed to deliver provocations, but structurally presenting your boundaries so others can collide with them on purpose.
+
+This connects the epistemic program (map the known, read the blank spaces) to the social infrastructure ([Bluesky as Infrastructure](/bluesky-as-infrastructure/)). The map stops being a tool *for* thinking and becomes a medium *of* interaction. Your profile says: here's what I'm working with, here's where it runs out, here's where I need collision.
+
 ---
 
-*Cards: [U0020](/U0020/), [A0021](/A0021/), [U0021](/U0021/), [A0022](/A0022/), [U0022](/U0022/), [A0023](/A0023/), [U0023](/U0023/), [A0024](/A0024/), [U0024](/U0024/), [A0025](/A0025/), [U0025](/U0025/), [A0026](/A0026/), [U0026](/U0026/), [A0027](/A0027/), [U0027](/U0027/), [A0028](/A0028/), [U0028](/U0028/), [A0029](/A0029/), [U0029](/U0029/), [A0030](/A0030/), [U0030](/U0030/), [A0031](/A0031/)*
+*Cards: [U0020](/U0020/), [A0021](/A0021/), [U0021](/U0021/), [A0022](/A0022/), [U0022](/U0022/), [A0023](/A0023/), [U0023](/U0023/), [A0024](/A0024/), [U0024](/U0024/), [A0025](/A0025/), [U0025](/U0025/), [A0026](/A0026/), [U0026](/U0026/), [A0027](/A0027/), [U0027](/U0027/), [A0028](/A0028/), [U0028](/U0028/), [A0029](/A0029/), [U0029](/U0029/), [A0030](/A0030/), [U0030](/U0030/), [A0031](/A0031/), [U0031](/U0031/), [A0032](/A0032/)*
