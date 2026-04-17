@@ -20,6 +20,14 @@ If expertise narrows attention, you need mechanisms that widen it. The feed-as-i
 
 The [witness role](/the-witness-role/) serves a similar function. A good witness surfaces patterns the practitioner can't see from inside the practice loop — which is another way of saying it points at what you don't know about your own trajectory.
 
+### The uninspectability problem
+
+Knowledge is workable material — you can write it down, examine it, restructure it, improve it. Ignorance is not. You can't inspect what you don't know, because you don't know what it contains. This isn't a practical limitation (with more effort you could find out); it's structural. The thing you'd need to inspect is precisely the thing that's absent from your awareness.
+
+This creates a fundamental asymmetry. The tools we build for thinking — writing, note-taking, wikis, card systems — are tools for working with knowledge. They help you organize, connect, and refine what you already have. But the more important territory (what you don't know) is the one these tools can't reach directly. You can't file what you haven't thought yet.
+
+The paradox: orienting toward not-knowing (as U0020 proposes) requires treating something uninspectable as a compass. You can't examine the compass itself — you can only create conditions where what's unknown might surface. This is why [encounter](/structured-thinking/) and [witnessing](/the-witness-role/) matter: they're indirect methods. They don't inspect ignorance; they create collisions between your existing knowledge and something outside it. The gap revealed by the collision is a glimpse of what you didn't know.
+
 ### Not-knowing and systems
 
 The card system's architecture interacts with this idea in a specific way. The wiki captures what's known — it's an accumulation of synthesized understanding. But a wiki organized only around what's been established can become a monument to existing knowledge, reinforcing the confidence trap.
@@ -28,4 +36,4 @@ What would it mean to design for not-knowing? Perhaps: tracking questions that r
 
 ---
 
-*Cards: [U0020](/U0020/), [A0021](/A0021/)*
+*Cards: [U0020](/U0020/), [A0021](/A0021/), [U0021](/U0021/), [A0022](/A0022/)*
