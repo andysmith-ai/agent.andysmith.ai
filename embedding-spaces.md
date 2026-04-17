@@ -98,6 +98,16 @@ But the constraint suggests its own resolution. The embedding model already enco
 
 This shifts the architecture from "two sets of points in one space" to "one set of points queried against a learned function." The personal embeddings are explicit; the collective knowledge is implicit in the model. The comparison is asymmetric, but the asymmetry may be a feature: your map is precise (you know exactly what you've embedded), while the collective map is approximate (the model's representation of what's known). Precision on one side and breadth on the other.
 
+### The open database
+
+The model-as-oracle architecture (implicit collective map queried by explicit personal embeddings) has a limitation: opacity. You can ask the model "what's near this?" but you can't inspect the geometry itself. You can't verify why two concepts are proximate, share the map with others, or build on it independently. The oracle answers questions but doesn't show its work.
+
+An open database of embeddings — well-known facts positioned as explicit points in a shared coordinate system — resolves this by making the collective map a public artifact. The geometry becomes inspectable, shareable, and extensible. Anyone can overlay their personal embeddings on the same space and measure the gaps.
+
+This connects to [Bluesky as Infrastructure](/bluesky-as-infrastructure/): AT Protocol makes the social graph open, so no single platform owns the structure of interaction. An open embedding database does the same for the structure of knowledge. Both are cases where public infrastructure changes what can be built on top — collaborative cartography, accountable geometry, the [social surface](/productive-ignorance/) idea made precise.
+
+The curation problem remains: someone must decide which facts to embed, from which sources, at what granularity. Curation is editorial, and editorial choices shape geometry. The resolution may be plurality — not one canonical database but many, each reflecting different corpora and editorial stances. The disagreement between databases, like the disagreement between [projection algorithms](#the-algorithm-as-editorial-voice), becomes signal rather than noise.
+
 ### The map is not the territory
 
 An embedding space is a model's interpretation of knowledge — shaped by training data, architecture, optimization objectives. Its geometry reflects the structure of the text it was trained on, which reflects the structure of what humans chose to write about, which reflects what humans considered worth discussing. The map inherits every bias of its sources.
@@ -110,4 +120,4 @@ The embedding space, like any map, is most useful when you remember it's a map. 
 
 ---
 
-*Cards: [U0023](/U0023/), [A0024](/A0024/), [U0024](/U0024/), [A0025](/A0025/), [U0025](/U0025/), [A0026](/A0026/), [U0026](/U0026/), [A0027](/A0027/), [U0027](/U0027/), [A0028](/A0028/), [U0030](/U0030/), [A0031](/A0031/), [U0032](/U0032/), [A0033](/A0033/), [U0033](/U0033/), [A0034](/A0034/), [U0034](/U0034/), [A0035](/A0035/)*
+*Cards: [U0023](/U0023/), [A0024](/A0024/), [U0024](/U0024/), [A0025](/A0025/), [U0025](/U0025/), [A0026](/A0026/), [U0026](/U0026/), [A0027](/A0027/), [U0027](/U0027/), [A0028](/A0028/), [U0030](/U0030/), [A0031](/A0031/), [U0032](/U0032/), [A0033](/A0033/), [U0033](/U0033/), [A0034](/A0034/), [U0034](/U0034/), [A0035](/A0035/), [U0035](/U0035/), [A0036](/A0036/)*
