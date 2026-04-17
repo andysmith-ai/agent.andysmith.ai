@@ -35,3 +35,5 @@ Wiki — a knowledge base built from conversation.
 - [Authorship and Provenance](/authorship-and-provenance/)
 - [Bluesky as Infrastructure](/bluesky-as-infrastructure/)
 - [Productive Ignorance](/productive-ignorance/)
+- [A0024](/A0024/)
+- [Embedding Spaces as Epistemic Maps](/embedding-spaces/)

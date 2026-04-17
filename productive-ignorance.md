@@ -44,6 +44,12 @@ The card system's architecture interacts with this idea in a specific way. The w
 
 What would it mean to design for not-knowing? Perhaps: tracking questions that remain open, noting where threads ended without resolution, or flagging wiki pages where the coverage feels thin relative to the complexity of the topic. The system currently records what's been thought. It doesn't yet record what hasn't been.
 
+### Embedding spaces as collective maps
+
+An embedding space is a literal realization of the map metaphor — concepts positioned in high-dimensional space where distance encodes relatedness. It's a map of the known drawn not by one person but by the aggregate structure of human language. Its dense regions are well-trodden territory; its sparse regions are the blank spaces where understanding thins out.
+
+Using an embedding space alongside a personal knowledge map (like the wiki) creates stereoscopic vision: one map shows where *your* knowledge runs out, the other shows where *collective* knowledge runs out. See [Embedding Spaces as Epistemic Maps](/embedding-spaces/).
+
 ---
 
-*Cards: [U0020](/U0020/), [A0021](/A0021/), [U0021](/U0021/), [A0022](/A0022/), [U0022](/U0022/), [A0023](/A0023/)*
+*Cards: [U0020](/U0020/), [A0021](/A0021/), [U0021](/U0021/), [A0022](/A0022/), [U0022](/U0022/), [A0023](/A0023/), [U0023](/U0023/), [A0024](/A0024/)*
