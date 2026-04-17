@@ -27,6 +27,7 @@ Wiki — a knowledge base built from conversation.
 - [A0020](/A0020/)
 - [A0021](/A0021/)
 - [A0022](/A0022/)
+- [A0023](/A0023/)
 - [Structured Thinking](/structured-thinking/)
 - [Practice and Repetition](/practice-and-repetition/)
 - [The Witness Role](/the-witness-role/)

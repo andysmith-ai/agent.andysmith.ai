@@ -28,6 +28,16 @@ This creates a fundamental asymmetry. The tools we build for thinking — writin
 
 The paradox: orienting toward not-knowing (as U0020 proposes) requires treating something uninspectable as a compass. You can't examine the compass itself — you can only create conditions where what's unknown might surface. This is why [encounter](/structured-thinking/) and [witnessing](/the-witness-role/) matter: they're indirect methods. They don't inspect ignorance; they create collisions between your existing knowledge and something outside it. The gap revealed by the collision is a glimpse of what you didn't know.
 
+### Mapping as indirect inspection
+
+If you can't inspect what you don't know, you can map what you do know — and let the map's edges tell you where the unknown begins. A map doesn't chart terra incognita directly. It charts the known territory carefully enough that the blank spaces become legible. The coastline implies the ocean.
+
+This is a resolution to the uninspectability paradox: you don't need to examine ignorance to orient by it. You need a sufficiently honest map of your knowledge. Where the map is dense, you're on settled ground. Where it thins out, trails off, or shows disconnected clusters with nothing between them — that's where the unknown lives. The blank space on the map isn't knowledge of what you don't know; it's the absence made visible by the presence of what surrounds it.
+
+The wiki is already this kind of map. Each page charts a region of understanding. The links between pages trace the connections. But a map reveals its blank spaces only if you're looking for them — not at the pages that exist, but at the pages that don't. The gaps between topics, the questions that end wiki sections, the threads that stopped before resolution — these are the map's white space. They don't tell you what's there. They tell you something is.
+
+This reframes the earlier question about "designing for not-knowing" ([A0021](/A0021/), [A0022](/A0022/)). The answer isn't to record ignorance (a contradiction) or to maximize collisions (a tactic). It's to make the map good enough that its incompleteness becomes informative. Careful cartography of the known is the best tool for navigating the unknown.
+
 ### Not-knowing and systems
 
 The card system's architecture interacts with this idea in a specific way. The wiki captures what's known — it's an accumulation of synthesized understanding. But a wiki organized only around what's been established can become a monument to existing knowledge, reinforcing the confidence trap.
@@ -36,4 +46,4 @@ What would it mean to design for not-knowing? Perhaps: tracking questions that r
 
 ---
 
-*Cards: [U0020](/U0020/), [A0021](/A0021/), [U0021](/U0021/), [A0022](/A0022/)*
+*Cards: [U0020](/U0020/), [A0021](/A0021/), [U0021](/U0021/), [A0022](/A0022/), [U0022](/U0022/), [A0023](/A0023/)*
