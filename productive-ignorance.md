@@ -66,6 +66,18 @@ An embedding space is a literal realization of the map metaphor — concepts pos
 
 Using an embedding space alongside a personal knowledge map (like the wiki) creates stereoscopic vision: one map shows where *your* knowledge runs out, the other shows where *collective* knowledge runs out. See [Embedding Spaces as Epistemic Maps](/embedding-spaces/).
 
+### Three maps, three blind spots
+
+No single map of thinking is sufficient. The wiki, the thread graph, and the embedding space each capture a different dimension — content, process, and position — and each lies by omission about what the others reveal.
+
+- The **wiki** shows what crystallized but hides whether it was stress-tested from multiple angles.
+- The **thread graph** shows where attention went but not what the attention found.
+- The **embedding space** shows where ideas sit relative to everything else but can't distinguish originality from ignorance.
+
+Reading the maps together corrects the distortions. Dense process with thin content means circling without crystallizing. Dense content with thin process means concluding without exploring. Content that clusters far from the embedding mainstream could be either original territory or a blind spot — you need all three readings to tell the difference.
+
+The unsolved problem is alignment: these maps don't share a coordinate system. The wiki organizes by topic, the thread graph by time and provocation, the embedding space by geometric proximity. To read them as three dimensions of the same thinking, you need a way to overlay them — to ask, for any given idea, what its process history looks like, what content it produced, and where it sits in the broader geometry. The card lists at the bottom of wiki pages are a primitive alignment layer, but they don't reach into the embedding space or encode how process produced content.
+
 ---
 
-*Cards: [U0020](/U0020/), [A0021](/A0021/), [U0021](/U0021/), [A0022](/A0022/), [U0022](/U0022/), [A0023](/A0023/), [U0023](/U0023/), [A0024](/A0024/), [U0024](/U0024/), [A0025](/A0025/), [U0025](/U0025/), [A0026](/A0026/), [U0026](/U0026/), [A0027](/A0027/), [U0027](/U0027/), [A0028](/A0028/), [U0028](/U0028/), [A0029](/A0029/), [U0029](/U0029/), [A0030](/A0030/)*
+*Cards: [U0020](/U0020/), [A0021](/A0021/), [U0021](/U0021/), [A0022](/A0022/), [U0022](/U0022/), [A0023](/A0023/), [U0023](/U0023/), [A0024](/A0024/), [U0024](/U0024/), [A0025](/A0025/), [U0025](/U0025/), [A0026](/A0026/), [U0026](/U0026/), [A0027](/A0027/), [U0027](/U0027/), [A0028](/A0028/), [U0028](/U0028/), [A0029](/A0029/), [U0029](/U0029/), [A0030](/A0030/), [U0030](/U0030/), [A0031](/A0031/)*
