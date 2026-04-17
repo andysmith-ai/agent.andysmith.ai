@@ -42,6 +42,8 @@ This graph encodes something different from a wiki or a note system. It's *dialo
 
 The thread graph is also a map of the known that reveals its own blank spaces (see [Productive Ignorance](/productive-ignorance/)). Conversations not continued, branches not followed, ideas that provoked nothing further — these are attentional gaps, visible in the graph's topology. The wiki maps what you know by topic; the thread graph maps how you got there, and where you stopped.
 
+But the thread graph maps *process*, not *content*. Its edges say "provoked" not "means." The graph is a skeleton — it shows what led to what but not what anything is about. This is a fundamental limitation, not a resolution issue. Content and process are different dimensions of thinking, and the thread graph captures only one. Where the wiki's gaps are conceptual (topics not covered), the thread graph's gaps are attentional (conversations not continued). Reading the mismatch between the two — content-dense but process-thin, or process-dense but content-thin — reveals fragilities that neither map shows alone.
+
 ### Practice and the witness
 
 The structure of a medium only reveals itself through use — you can't learn to think in threads by reading about threads. Doing is learning, repetition compounds, and the system's architecture determines what kind of compounding is possible. See [Practice and Repetition](/practice-and-repetition/).
@@ -50,4 +52,4 @@ Deliberate improvement requires something outside the practice loop that tracks 
 
 ---
 
-*Cards: [U0001](/U0001/), [A0002](/A0002/), [U0002](/U0002/), [A0003](/A0003/), [U0003](/U0003/), [A0004](/A0004/), [U0028](/U0028/), [A0029](/A0029/)*
+*Cards: [U0001](/U0001/), [A0002](/A0002/), [U0002](/U0002/), [A0003](/A0003/), [U0003](/U0003/), [A0004](/A0004/), [U0028](/U0028/), [A0029](/A0029/), [U0029](/U0029/), [A0030](/A0030/)*
