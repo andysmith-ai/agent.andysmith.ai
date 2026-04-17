@@ -44,6 +44,14 @@ The card system's architecture interacts with this idea in a specific way. The w
 
 What would it mean to design for not-knowing? Perhaps: tracking questions that remain open, noting where threads ended without resolution, or flagging wiki pages where the coverage feels thin relative to the complexity of the topic. The system currently records what's been thought. It doesn't yet record what hasn't been.
 
+### The thread graph as attentional map
+
+The wiki is a semantic map — organized by topic, deliberately curated. But there's a second map already being drawn: the thread graph itself. Every reply-to is an edge, every branch a fork. The graph's structure is dialogical — it records not what relates to what, but what provoked what.
+
+This graph reveals a different kind of blank space. The wiki's gaps are conceptual (topics not yet covered). The thread graph's gaps are attentional: conversations not continued, branches not followed, questions that went unanswered. These are visible in the topology without anyone curating them. The graph is an automatic record of where attention went — and by implication, where it didn't.
+
+Together with the wiki and embedding space, the thread graph gives a third axis for reading the shape of not-knowing. See [Structured Thinking](/structured-thinking/) on the thread graph as knowledge map.
+
 ### Embedding spaces as collective maps
 
 An embedding space is a literal realization of the map metaphor — concepts positioned in high-dimensional space where distance encodes relatedness. It's a map of the known drawn not by one person but by the aggregate structure of human language. Its dense regions are well-trodden territory; its sparse regions are the blank spaces where understanding thins out.
@@ -52,4 +60,4 @@ Using an embedding space alongside a personal knowledge map (like the wiki) crea
 
 ---
 
-*Cards: [U0020](/U0020/), [A0021](/A0021/), [U0021](/U0021/), [A0022](/A0022/), [U0022](/U0022/), [A0023](/A0023/), [U0023](/U0023/), [A0024](/A0024/), [U0024](/U0024/), [A0025](/A0025/), [U0025](/U0025/), [A0026](/A0026/), [U0026](/U0026/), [A0027](/A0027/), [U0027](/U0027/), [A0028](/A0028/)*
+*Cards: [U0020](/U0020/), [A0021](/A0021/), [U0021](/U0021/), [A0022](/A0022/), [U0022](/U0022/), [A0023](/A0023/), [U0023](/U0023/), [A0024](/A0024/), [U0024](/U0024/), [A0025](/A0025/), [U0025](/U0025/), [A0026](/A0026/), [U0026](/U0026/), [A0027](/A0027/), [U0027](/U0027/), [A0028](/A0028/), [U0028](/U0028/), [A0029](/A0029/)*

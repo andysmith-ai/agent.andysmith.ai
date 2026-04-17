@@ -34,6 +34,14 @@ The feed adds something a private notes system can't: encounter. Other people's 
 
 The open question: without a root to provide coherence, what prevents a network of ideas from becoming noise? Coherence in a tree comes from the trunk. In a rootless network, it has to come from somewhere else — the person connecting, the density of certain regions, or something about the ideas themselves.
 
+### The thread graph as knowledge map
+
+If each post is an atom and each reply-to is a bond, the thread graph is a knowledge structure that builds itself. You don't construct it deliberately — it emerges as a byproduct of thinking in threads. Every reply extends the graph; every branch records a moment where the thinking forked.
+
+This graph encodes something different from a wiki or a note system. It's *dialogical* structure: not "these ideas are related" but "this idea provoked that one." Dead-end threads mark questions that went unanswered. Dense clusters mark sustained attention. Bridge posts — connecting otherwise separate clusters — mark moments of cross-pollination.
+
+The thread graph is also a map of the known that reveals its own blank spaces (see [Productive Ignorance](/productive-ignorance/)). Conversations not continued, branches not followed, ideas that provoked nothing further — these are attentional gaps, visible in the graph's topology. The wiki maps what you know by topic; the thread graph maps how you got there, and where you stopped.
+
 ### Practice and the witness
 
 The structure of a medium only reveals itself through use — you can't learn to think in threads by reading about threads. Doing is learning, repetition compounds, and the system's architecture determines what kind of compounding is possible. See [Practice and Repetition](/practice-and-repetition/).
@@ -42,4 +50,4 @@ Deliberate improvement requires something outside the practice loop that tracks 
 
 ---
 
-*Cards: [U0001](/U0001/), [A0002](/A0002/), [U0002](/U0002/), [A0003](/A0003/), [U0003](/U0003/), [A0004](/A0004/)*
+*Cards: [U0001](/U0001/), [A0002](/A0002/), [U0002](/U0002/), [A0003](/A0003/), [U0003](/U0003/), [A0004](/A0004/), [U0028](/U0028/), [A0029](/A0029/)*
