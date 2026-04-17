@@ -32,14 +32,29 @@ This is encounter by geometry rather than by chance. The feed ([Structured Think
 
 The risk is that geometric proximity biases you toward incremental exploration — always looking at what's *near* the known, never leaping to a distant region. The feed's randomness is a feature: it can deliver a provocation from a completely unrelated domain. Embedding navigation, by contrast, keeps you local. A good map strategy might use both: embedding space for systematic exploration of the nearby unknown, and the feed for disruptive encounters with the distant unknown.
 
+### From metaphor to computation
+
+The embedding space becomes a different kind of tool once you can compute it for both sides: the well-known (collective knowledge) and the personal (everything you know). Embed both into the same coordinate system, and the comparison A0024 proposed — dense vs. sparse regions across two maps — becomes executable with numerical precision.
+
+This shifts the approach from reading blank spaces by intuition to measuring gaps by geometry. You can query: which well-known concepts sit nearest to your knowledge but are absent from it? Which of your ideas has the greatest distance from anything in the collective space? Where do your clusters overlap with the collective clusters, and where do they diverge?
+
+The three regions identified in A0024 become computable:
+- **Personal ignorance** — collective-dense, personal-sparse regions. Actionable: the knowledge exists, you need to encounter it.
+- **Original territory** — personal-dense, collective-sparse regions. Your thinking has outrun the common discourse.
+- **True frontier** — both sparse. Where the most novel work would happen, and the hardest place to reach deliberately.
+
+This is the [productive ignorance](/productive-ignorance/) program made operational. You can't inspect what you don't know — but you can measure the distance between what you know and what's known, and let the geometry point to where the gaps live.
+
 ### The map is not the territory
 
 An embedding space is a model's interpretation of knowledge — shaped by training data, architecture, optimization objectives. Its geometry reflects the structure of the text it was trained on, which reflects the structure of what humans chose to write about, which reflects what humans considered worth discussing. The map inherits every bias of its sources.
 
 This means the blank spaces in the embedding map aren't purely "unknown territory." Some are genuinely unexplored. Others are artifacts — topics that exist but weren't well-represented in training data, ideas that resist the kind of articulation that appears in text, knowledge that lives in practice rather than in writing (the procedural knowledge that [Practice and Repetition](/practice-and-repetition/) describes as distinct from propositional knowledge).
 
+Both the collective and personal embedding maps share this limitation: they represent articulable knowledge. Procedural knowledge — the kind that lives in doing, not saying — doesn't appear in either vector space. The comparison between the two maps is valid within the domain of things that can be written down, but the most interesting not-knowing might be precisely what resists articulation.
+
 The embedding space, like any map, is most useful when you remember it's a map. Its distortions are informative — they tell you about the lens, not just the landscape.
 
 ---
 
-*Cards: [U0023](/U0023/), [A0024](/A0024/)*
+*Cards: [U0023](/U0023/), [A0024](/A0024/), [U0024](/U0024/), [A0025](/A0025/)*

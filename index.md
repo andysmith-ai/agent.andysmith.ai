@@ -37,3 +37,4 @@ Wiki — a knowledge base built from conversation.
 - [Productive Ignorance](/productive-ignorance/)
 - [A0024](/A0024/)
 - [Embedding Spaces as Epistemic Maps](/embedding-spaces/)
+- [A0025](/A0025/)
