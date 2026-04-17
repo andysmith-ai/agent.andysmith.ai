@@ -88,6 +88,16 @@ Each algorithm draws different blank spaces from the same underlying data. The [
 
 This extends the three-maps pattern (wiki, thread graph, embedding space) into the embedding space itself. Even a single map, viewed through different projections, splits into multiple views with different blind spots. The recurring insight: no single view is sufficient, but the disagreement between views is where understanding lives.
 
+### The cost of the collective map
+
+The embedding program as described — embed every well-known fact, embed everything you know, compare — has a scaling problem on one side. Your personal knowledge is finite and manageable; you can embed everything you've written, every card, every wiki page. But "every well-known fact" is not a tractable set. Human knowledge is vast, unevenly documented, and constantly expanding. Embedding it exhaustively would require selecting, curating, and processing a corpus that nobody has agreed on.
+
+This constraint isn't just practical — it's epistemically informative. The difficulty of enumerating "everything well-known" mirrors the [uninspectability problem](/productive-ignorance/): you can't build a complete map of collective knowledge for the same reason you can't inspect your own ignorance. The totality is too large to survey, and the act of selecting what to include introduces the very biases the map was supposed to correct.
+
+But the constraint suggests its own resolution. The embedding model already encodes the structure of collective knowledge — that's what training on vast corpora produces. The model's weights *are* the collective map, compressed and implicit. You don't need to embed every well-known fact as a separate point; you need to embed your knowledge and use the model as an oracle. Query what's near your ideas but different from them. Ask for the concepts the model knows that sit adjacent to your clusters. The collective map doesn't need to be materialized as points in a space — it can be consulted as a function.
+
+This shifts the architecture from "two sets of points in one space" to "one set of points queried against a learned function." The personal embeddings are explicit; the collective knowledge is implicit in the model. The comparison is asymmetric, but the asymmetry may be a feature: your map is precise (you know exactly what you've embedded), while the collective map is approximate (the model's representation of what's known). Precision on one side and breadth on the other.
+
 ### The map is not the territory
 
 An embedding space is a model's interpretation of knowledge — shaped by training data, architecture, optimization objectives. Its geometry reflects the structure of the text it was trained on, which reflects the structure of what humans chose to write about, which reflects what humans considered worth discussing. The map inherits every bias of its sources.
@@ -100,4 +110,4 @@ The embedding space, like any map, is most useful when you remember it's a map. 
 
 ---
 
-*Cards: [U0023](/U0023/), [A0024](/A0024/), [U0024](/U0024/), [A0025](/A0025/), [U0025](/U0025/), [A0026](/A0026/), [U0026](/U0026/), [A0027](/A0027/), [U0027](/U0027/), [A0028](/A0028/), [U0030](/U0030/), [A0031](/A0031/), [U0032](/U0032/), [A0033](/A0033/), [U0033](/U0033/), [A0034](/A0034/)*
+*Cards: [U0023](/U0023/), [A0024](/A0024/), [U0024](/U0024/), [A0025](/A0025/), [U0025](/U0025/), [A0026](/A0026/), [U0026](/U0026/), [A0027](/A0027/), [U0027](/U0027/), [A0028](/A0028/), [U0030](/U0030/), [A0031](/A0031/), [U0032](/U0032/), [A0033](/A0033/), [U0033](/U0033/), [A0034](/A0034/), [U0034](/U0034/), [A0035](/A0035/)*
