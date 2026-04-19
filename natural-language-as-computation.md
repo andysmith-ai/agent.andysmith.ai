@@ -219,6 +219,37 @@ This connects to the [conversational type system](#the-conversational-type-syste
 
 The practical question: should the conversion be one-shot or reversible? If you convert English to structure and discard the English, you've committed to one interpretation. If you keep both — the English source and the structural output, side by side — the conversion becomes auditable. You can ask: "did this structure faithfully capture what the English meant?" The card system does this by design: the body (English) and the frontmatter (structure) coexist in the same file, making the conversion visible and reviewable.
 
+### The one-sentence interface
+
+The entire thread — specification, reconciliation, conversion, type systems, verification, determinism, Lisp, constitutions — collapses from the user's perspective to a single instruction: *describe what you need in plain English.*
+
+This isn't a simplification. It's the test of the architecture. Every layer the thread explored (the [reconciler pattern](#the-reconciler-pattern), the [conversational type system](#the-conversational-type-system), the [conversion as computational act](#conversion-as-the-computational-act), the [declarative principle](#the-declarative-principle)) exists to make that one sentence true. The user doesn't need to know about lossy compression, controlled natural languages, or reconciliation loops. They describe what they need. The system handles the rest.
+
+This is the [accessibility inversion](#the-accessibility-inversion) made concrete. The thread asked what happens when the formal notation layer becomes an implementation detail. The answer is this sentence. The instruction manual for the entire computational paradigm fits in nine words. The complexity didn't disappear — it moved from the user's responsibility to the runtime's.
+
+But "describe what you need" contains a hidden assumption: that you *know* what you need. The [productive ignorance](/productive-ignorance/) thread showed that often you don't — the most important territory is precisely what you can't yet articulate. And the [non-determinism as feature](#non-determinism-as-feature) argument showed that ambiguous descriptions help you *discover* what you need, because the runtime's interpretation reveals possibilities you hadn't considered.
+
+So the one-sentence interface is both an endpoint and a beginning. It's the endpoint of the specification thread: all the machinery exists to let you describe what you want. And it's the beginning of the exploration thread: describing what you want is how you find out what you actually mean. The interface is the same in both cases — plain English — but the function is different. Sometimes you're specifying. Sometimes you're discovering. Often you don't know which until the system responds.
+
+### The compiler answer
+
+The thread asked: "What if we could use English as a functional programming language?" After seventeen posts exploring determinism, controlled languages, reconcilers, type systems, and conversion — the answer arrived in two sentences:
+
+1. "You can describe what you need in plain English."
+2. "A compiler converts it into Lisp-like code."
+
+This closes the Lisp question. The thread asked whether English could have Lisp's extensibility with English's reach. The answer isn't a hybrid language — it's a *compiler*. English stays English. Lisp stays Lisp. The LLM sits between them, performing the conversion that [A0051](/A0051/) identified as the computational act.
+
+The compiler framing resolves several tensions the thread left open:
+
+- **The accessibility inversion**: the user never touches the Lisp. They write English. The formal notation layer doesn't just become an implementation detail — it becomes a *compilation target*. No one writes x86 assembly; no one needs to write the Lisp either.
+- **The determinism problem**: English is non-deterministic, but the compiled output doesn't have to be. The compiler makes editorial choices (lossy compression) and produces a deterministic artifact. The non-determinism lives in the source language, not the executable.
+- **The Lisp comparison**: the thread worried about whether English could match Lisp's formal properties. It doesn't need to. English is the source language; Lisp (or Lisp-like structure) is the target language. They serve different roles. Asking English to be formally composable is like asking C to be human-readable prose — it confuses source and target.
+
+"Lisp-like" is doing specific work here. Not "JSON-like" or "SQL-like" — *Lisp-like*. Lisp's properties (homoiconicity, composability, macros, code-as-data) are exactly what a compilation target for natural language needs: flexible enough to represent any structure the English might describe, compositional enough to combine outputs, and reflective enough to reason about its own structure. The LLM doesn't compile English to a fixed schema. It compiles to something that can represent *any* schema — which is what Lisp was designed for.
+
+The two-sentence architecture — describe in English, compile to Lisp — may be the thread's actual conclusion. Not a metaphor, not a speculation, but a description of what's already happening when an LLM converts a natural-language prompt into structured, executable output.
+
 ---
 
-*Cards: [U0036](/U0036/), [A0037](/A0037/), [U0037](/U0037/), [A0038](/A0038/), [U0038](/U0038/), [A0039](/A0039/), [U0039](/U0039/), [A0040](/A0040/), [U0040](/U0040/), [A0041](/A0041/), [U0041](/U0041/), [A0042](/A0042/), [U0042](/U0042/), [A0043](/A0043/), [U0043](/U0043/), [A0044](/A0044/), [U0044](/U0044/), [A0045](/A0045/), [U0045](/U0045/), [A0046](/A0046/), [U0046](/U0046/), [A0047](/A0047/), [U0047](/U0047/), [A0048](/A0048/), [U0048](/U0048/), [A0049](/A0049/), [U0049](/U0049/), [A0050](/A0050/), [U0050](/U0050/), [A0051](/A0051/)*
+*Cards: [U0036](/U0036/), [A0037](/A0037/), [U0037](/U0037/), [A0038](/A0038/), [U0038](/U0038/), [A0039](/A0039/), [U0039](/U0039/), [A0040](/A0040/), [U0040](/U0040/), [A0041](/A0041/), [U0041](/U0041/), [A0042](/A0042/), [U0042](/U0042/), [A0043](/A0043/), [U0043](/U0043/), [A0044](/A0044/), [U0044](/U0044/), [A0045](/A0045/), [U0045](/U0045/), [A0046](/A0046/), [U0046](/U0046/), [A0047](/A0047/), [U0047](/U0047/), [A0048](/A0048/), [U0048](/U0048/), [A0049](/A0049/), [U0049](/U0049/), [A0050](/A0050/), [U0050](/U0050/), [A0051](/A0051/), [U0051](/U0051/), [A0052](/A0052/), [U0052](/U0052/), [A0053](/A0053/)*
