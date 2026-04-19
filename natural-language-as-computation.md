@@ -205,4 +205,20 @@ Pushed to its limit, this leaves the human with a minimal but irreducible contri
 
 ---
 
-*Cards: [U0036](/U0036/), [A0037](/A0037/), [U0037](/U0037/), [A0038](/A0038/), [U0038](/U0038/), [A0039](/A0039/), [U0039](/U0039/), [A0040](/A0040/), [U0040](/U0040/), [A0041](/A0041/), [U0041](/U0041/), [A0042](/A0042/), [U0042](/U0042/), [A0043](/A0043/), [U0043](/U0043/), [A0044](/A0044/), [U0044](/U0044/), [A0045](/A0045/), [U0045](/U0045/), [A0046](/A0046/), [U0046](/U0046/), [A0047](/A0047/), [U0047](/U0047/), [A0048](/A0048/), [U0048](/U0048/), [A0049](/A0049/), [U0049](/U0049/), [A0050](/A0050/)*
+### Conversion as the computational act
+
+The thread's two branches — English-as-specification (constrain ambiguity) and English-as-exploration (embrace it) — frame a binary choice. But there's a third option: *convert* a non-deterministic English sentence into a deterministic structure. Not constrain the English and not accept its ambiguity — transform it.
+
+This reframes where the computation happens. In the specification model, the human does the work of precision (writing controlled English). In the exploration model, the runtime does the work of selection (picking one interpretation). In the conversion model, the computational act is the *translation itself* — the moment when ambiguous natural language becomes unambiguous structure.
+
+The card system performs this conversion every time: a post's English body carries multiple possible meanings, but the publish script produces exactly one Bluesky post with one URI, one CID, one position in the thread graph. The English is non-deterministic; the artifact is deterministic. The conversion — not the writing, not the publishing — is where meaning gets fixed.
+
+LLMs make this conversion general-purpose. "Convert this paragraph into a JSON schema." "Extract the action items from this email." "Turn this description into a database migration." Each is a conversion from non-deterministic English to deterministic structure. The LLM is a *converter*, not just an interpreter or executor. And crucially, the conversion is lossy — the deterministic structure captures some of what the English meant and discards the rest. What's discarded is the multiplicity, the other meanings that didn't survive the conversion. Whether that loss matters depends on whether you need those other meanings later.
+
+This connects to the [conversational type system](#the-conversational-type-system): each round of propose-review-iterate is a conversion attempt. The reconciler converts the ambiguous spec into a concrete proposal (deterministic structure). The human evaluates whether the conversion preserved the right meaning. If not, the next round tries a different conversion. The conversation isn't narrowing the interpretation — it's searching for the *right lossy compression*.
+
+The practical question: should the conversion be one-shot or reversible? If you convert English to structure and discard the English, you've committed to one interpretation. If you keep both — the English source and the structural output, side by side — the conversion becomes auditable. You can ask: "did this structure faithfully capture what the English meant?" The card system does this by design: the body (English) and the frontmatter (structure) coexist in the same file, making the conversion visible and reviewable.
+
+---
+
+*Cards: [U0036](/U0036/), [A0037](/A0037/), [U0037](/U0037/), [A0038](/A0038/), [U0038](/U0038/), [A0039](/A0039/), [U0039](/U0039/), [A0040](/A0040/), [U0040](/U0040/), [A0041](/A0041/), [U0041](/U0041/), [A0042](/A0042/), [U0042](/U0042/), [A0043](/A0043/), [U0043](/U0043/), [A0044](/A0044/), [U0044](/U0044/), [A0045](/A0045/), [U0045](/U0045/), [A0046](/A0046/), [U0046](/U0046/), [A0047](/A0047/), [U0047](/U0047/), [A0048](/A0048/), [U0048](/U0048/), [A0049](/A0049/), [U0049](/U0049/), [A0050](/A0050/), [U0050](/U0050/), [A0051](/A0051/)*
