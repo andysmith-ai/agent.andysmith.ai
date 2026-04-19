@@ -105,6 +105,18 @@ But the comparison reveals what English-as-computation is actually about. Lisp s
 
 The question the thread has been circling isn't really "can we build a better Lisp?" It's "can we build a computational medium that has Lisp's extensibility *and* English's reach?" The card system is one attempt: English for the audience-facing parts (post body, wiki pages), structured metadata for the computational parts (frontmatter, threading), and a runtime that bridges them. Not replacing Lisp, but occupying the space Lisp can't reach.
 
+### The accessibility inversion
+
+Lisp's inaccessibility isn't incidental — it's structural. The same properties that make Lisp powerful (homoiconicity, macros, minimal syntax that requires the user to build up abstractions) are the properties that make it hard to learn. Parentheses aren't just syntax; they're the visible surface of a design that privileges formal composability over readability. Lisp optimizes for the person who already understands computation. English optimizes for the person who doesn't yet know they're computing.
+
+This reframes the thread's question. The interesting comparison isn't Lisp vs. English as competing languages — it's who gets excluded by each. Lisp excludes non-programmers. English excludes no one. But exclusion has a function: it's what makes formal guarantees possible. A language everyone can use is a language no one can reason about formally. The accessibility-precision tradeoff might be fundamental, not just an engineering limitation.
+
+The LLM shifts this tradeoff. Before LLMs, using English computationally meant constraining it into a controlled subset (which sacrifices accessibility) or accepting total ambiguity (which sacrifices reliability). LLMs create a third option: leave the English unconstrained and put the interpretation burden on the runtime. The user doesn't need to learn a formal syntax. The runtime absorbs the complexity of mapping natural language to structured operations.
+
+This is the democratization move. Not "teach everyone Lisp" (which has been tried and failed repeatedly). Not "simplify Lisp until it's accessible" (which produces languages that aren't Lisp anymore). But "let people keep using the language they already know, and make the machine smart enough to interpret it." The cost is non-determinism — the machine might interpret differently than you intended. But the [non-determinism as feature](#non-determinism-as-feature) argument suggests this cost might be acceptable, or even productive, for the kinds of computation where English is the right medium: thinking, exploring, specifying intent rather than procedure.
+
+The remaining question: if the LLM runtime makes English computationally usable without requiring formal training, what happens to the boundary between "technical" and "non-technical" people? The boundary was always about who could translate intent into formal notation. If that translation is automated, the boundary doesn't just move — it might dissolve. Everyone becomes a programmer in the sense that everyone can specify computational intent. Nobody becomes a programmer in the traditional sense, because the formal notation layer becomes an implementation detail. The skill shifts from writing code to writing clearly — which, as the [structured thinking](/structured-thinking/) thread explored, is itself a deep and learnable discipline.
+
 ---
 
-*Cards: [U0036](/U0036/), [A0037](/A0037/), [U0037](/U0037/), [A0038](/A0038/), [U0038](/U0038/), [A0039](/A0039/), [U0039](/U0039/), [A0040](/A0040/), [U0040](/U0040/), [A0041](/A0041/), [U0041](/U0041/), [A0042](/A0042/)*
+*Cards: [U0036](/U0036/), [A0037](/A0037/), [U0037](/U0037/), [A0038](/A0038/), [U0038](/U0038/), [A0039](/A0039/), [U0039](/U0039/), [A0040](/A0040/), [U0040](/U0040/), [A0041](/A0041/), [U0041](/U0041/), [A0042](/A0042/), [U0042](/U0042/), [A0043](/A0043/)*
