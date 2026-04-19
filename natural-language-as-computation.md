@@ -48,6 +48,30 @@ LLMs approximate the first (they assign meaning, loosely). Nothing yet addresses
 
 The [structured thinking](/structured-thinking/) thread explored how constraints on natural language make it function differently — threads force sequencing, character limits force compression, publicness forces clarity. These constraints are doing something analogous to a type system: they narrow the space of valid expressions, making the language more predictable and its outputs more reliable. Not formal types, but structural constraints that serve a similar purpose.
 
+### Goal-state specification
+
+The functional programming analogy treats English as a language for expressing *computations* — inputs, transformations, outputs. But there's a narrower, more powerful claim: English can serve as a *declarative specification language* for goal states. Not "do X, then Y, then Z" (imperative). Not "transform input through these functions" (functional). Just: "the system should look like this when you're done."
+
+This is how SQL works — you describe the data you want, not how to retrieve it. It's how CSS works — you describe appearance, not rendering steps. Declarative languages succeed when there's a runtime smart enough to figure out the *how* from the *what*. LLMs are becoming that runtime for English.
+
+The card system already works this way. A card's frontmatter says "publish this as a reply to that post" — a goal-state declaration. The publish script figures out the execution. The card author doesn't specify API calls, authentication flows, or thread-resolution algorithms. They describe the desired end state and the runtime handles the rest.
+
+What changes when you generalize this beyond cards? If you can describe any system's goal state in plain English and a sufficiently capable runtime can work toward it, the gap between specification and implementation collapses. Programming becomes describing what you want, not how to build it. The skill shifts from writing instructions to writing descriptions — from procedural literacy to descriptive precision.
+
+The open question is verification. In SQL, you can prove the query result matches the specification. In English goal-state descriptions, how do you verify the system achieved what you described? The ambiguity problem returns: the specification is imprecise enough that multiple outcomes could satisfy it. This is where the [structured thinking](/structured-thinking/) insight about constraints becomes load-bearing — structural constraints on the English (templates, required fields, bounded scope) may do what formal types do for programming languages: narrow the space of valid interpretations enough to make verification tractable.
+
+### The reconciler pattern
+
+Declaring a goal state is only half the problem. A system already exists in some current state, and something has to bridge the gap. This is the reconciler — the component that diffs current state against the declared goal and computes the transition.
+
+This pattern is well-established in systems engineering: Terraform reads infrastructure-as-code and plans changes against live resources. Kubernetes controllers run continuous reconciliation loops. React diffs a virtual DOM against the real DOM. In every case, the declaration is the easy part; the reconciler is where the engineering complexity lives.
+
+For English-as-specification, the reconciler must: parse the English into something comparable, observe current state with enough fidelity to detect differences, compute a transition plan, and execute safely. LLMs can handle the parsing. But the reliability requirements of the reconciliation step (deterministic, auditable, previewable) sit in tension with the probabilistic nature of the parser. The preview step — showing *what would change* before executing — becomes even more critical when the specification language is ambiguous.
+
+The card system's publish script is a primitive reconciler: it reads a draft card (goal state), checks whether the post exists (current state), and executes the transition (API call plus frontmatter update). The `uri`, `cid`, and `published_at` fields written back are the state record — equivalent to Terraform's state file.
+
+The deeper question is whether English-based systems need one-shot compilation (run once, produce an artifact) or continuous reconciliation (loop: read spec, observe state, converge, repeat). If English specifications are inherently incomplete and the world drifts between reconciliation cycles, the controller model — not the compiler model — may be the natural architecture.
+
 ---
 
-*Cards: [U0036](/U0036/), [A0037](/A0037/)*
+*Cards: [U0036](/U0036/), [A0037](/A0037/), [U0037](/U0037/), [A0038](/A0038/), [U0038](/U0038/), [A0039](/A0039/)*
