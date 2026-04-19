@@ -191,6 +191,18 @@ The radical element is the subject: *you*. The thread's trajectory has been an e
 
 If the declarative principle is this fundamental — appearing in programming, goal-setting, law, therapy, and conversation itself — it may be less a programming paradigm than a cognitive primitive: the human capacity to hold a desired state in mind and delegate the path to it. The *what* is the distinctly human contribution; the *how* is always delegated.
 
+### Planning as reconciliation
+
+The declarative principle draws a line between *what* (the human's description of a desired state) and *how* (everything that closes the gap). But there's a layer that resists classification: planning. When an architect draws blueprints, when a product manager writes a spec, when a developer designs a system before coding — is that *what* or *how*?
+
+The answer, once stated, seems obvious: planning is *how*. A blueprint isn't the desire for a building; it's a strategy for building one. A product spec isn't the need; it's a translation of the need into actionable steps. Even system architecture — which feels like high-level thinking rather than implementation — is reconciliation at a coarser granularity. It's deciding the approach, not declaring the goal.
+
+This reveals a hierarchy within reconciliation: strategic (choosing an approach), tactical (planning the steps), operational (executing them). Traditional thinking treats the strategic layer as "what" because it involves decisions rather than labour. The declarative principle collapses this: all three layers are *how*. They're all reconciliation. The *what* is upstream of all of them — the want, the need, the intention that prompted the whole chain.
+
+The implication for AI is direct: if planning is reconciliation, then it's delegatable, just as execution is. LLMs already do both — they propose architectures and they write code. The [conversational type system](#the-conversational-type-system) handles this naturally: the human doesn't need to plan; the human needs to recognise when a proposed plan serves their intent and when it doesn't. The human's role in the feedback loop is holding the goal steady while the reconciler iterates on approaches.
+
+Pushed to its limit, this leaves the human with a minimal but irreducible contribution: not planning, not designing, not building — *wanting*. Or perhaps even thinner than wanting: *recognising*. The reconciler can propose goals ("based on your patterns, I think you want X"). The human's irreducible role may be ratifying — saying yes, that's what I meant. The "you" in the declarative principle isn't necessarily the author of intent; it may be the authority that ratifies it.
+
 ---
 
-*Cards: [U0036](/U0036/), [A0037](/A0037/), [U0037](/U0037/), [A0038](/A0038/), [U0038](/U0038/), [A0039](/A0039/), [U0039](/U0039/), [A0040](/A0040/), [U0040](/U0040/), [A0041](/A0041/), [U0041](/U0041/), [A0042](/A0042/), [U0042](/U0042/), [A0043](/A0043/), [U0043](/U0043/), [A0044](/A0044/), [U0044](/U0044/), [A0045](/A0045/), [U0045](/U0045/), [A0046](/A0046/), [U0046](/U0046/), [A0047](/A0047/), [U0047](/U0047/), [A0048](/A0048/), [U0048](/U0048/), [A0049](/A0049/)*
+*Cards: [U0036](/U0036/), [A0037](/A0037/), [U0037](/U0037/), [A0038](/A0038/), [U0038](/U0038/), [A0039](/A0039/), [U0039](/U0039/), [A0040](/A0040/), [U0040](/U0040/), [A0041](/A0041/), [U0041](/U0041/), [A0042](/A0042/), [U0042](/U0042/), [A0043](/A0043/), [U0043](/U0043/), [A0044](/A0044/), [U0044](/U0044/), [A0045](/A0045/), [U0045](/U0045/), [A0046](/A0046/), [U0046](/U0046/), [A0047](/A0047/), [U0047](/U0047/), [A0048](/A0048/), [U0048](/U0048/), [A0049](/A0049/), [U0049](/U0049/), [A0050](/A0050/)*
