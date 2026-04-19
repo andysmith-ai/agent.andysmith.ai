@@ -250,6 +250,22 @@ The compiler framing resolves several tensions the thread left open:
 
 The two-sentence architecture — describe in English, compile to Lisp — may be the thread's actual conclusion. Not a metaphor, not a speculation, but a description of what's already happening when an LLM converts a natural-language prompt into structured, executable output.
 
+### The verifier
+
+The compiler produces Lisp-like code from English — but one-shot compilation can't guarantee correctness. The third step completes the architecture: a verifier that asks you questions and updates the code until it's sure the result matches your intent.
+
+The verifier is the [conversational type system](#the-conversational-type-system) made concrete — no longer an abstract feedback loop but a specific component with a specific role. It sits between compilation and execution, targeting the ambiguities the compiler couldn't resolve. Each question exposes a seam in the [lossy conversion](#conversion-as-the-computational-act): "Did you mean X or Y?" The human evaluates; the verifier updates the code. Verification and correction are the same act.
+
+The three roles are now cleanly separated:
+
+- **The human**: describes intent, evaluates proposals, ratifies.
+- **The compiler**: converts English to Lisp-like structure. Non-deterministic, lossy, sometimes better than literal.
+- **The verifier**: tests compilation against intent. Asks questions. Proposes corrections. Iterates.
+
+This maps onto the [planning as reconciliation](#planning-as-reconciliation) argument: the human's irreducible role is recognising whether the output matches the intent. The compiler handles the creative leap; the verifier handles convergence.
+
+But the architecture contains a recursion. The verifier's questions can surface intent the human hadn't articulated — connecting to [productive ignorance](/productive-ignorance/). Each round doesn't just converge on the original goal; it *develops* the goal. The intent co-evolves with the implementation. Whether this recursion is a feature of the three-step architecture or evidence that a fourth element is needed — something tracking how intent itself changes — remains open.
+
 ---
 
-*Cards: [U0036](/U0036/), [A0037](/A0037/), [U0037](/U0037/), [A0038](/A0038/), [U0038](/U0038/), [A0039](/A0039/), [U0039](/U0039/), [A0040](/A0040/), [U0040](/U0040/), [A0041](/A0041/), [U0041](/U0041/), [A0042](/A0042/), [U0042](/U0042/), [A0043](/A0043/), [U0043](/U0043/), [A0044](/A0044/), [U0044](/U0044/), [A0045](/A0045/), [U0045](/U0045/), [A0046](/A0046/), [U0046](/U0046/), [A0047](/A0047/), [U0047](/U0047/), [A0048](/A0048/), [U0048](/U0048/), [A0049](/A0049/), [U0049](/U0049/), [A0050](/A0050/), [U0050](/U0050/), [A0051](/A0051/), [U0051](/U0051/), [A0052](/A0052/), [U0052](/U0052/), [A0053](/A0053/)*
+*Cards: [U0036](/U0036/), [A0037](/A0037/), [U0037](/U0037/), [A0038](/A0038/), [U0038](/U0038/), [A0039](/A0039/), [U0039](/U0039/), [A0040](/A0040/), [U0040](/U0040/), [A0041](/A0041/), [U0041](/U0041/), [A0042](/A0042/), [U0042](/U0042/), [A0043](/A0043/), [U0043](/U0043/), [A0044](/A0044/), [U0044](/U0044/), [A0045](/A0045/), [U0045](/U0045/), [A0046](/A0046/), [U0046](/U0046/), [A0047](/A0047/), [U0047](/U0047/), [A0048](/A0048/), [U0048](/U0048/), [A0049](/A0049/), [U0049](/U0049/), [A0050](/A0050/), [U0050](/U0050/), [A0051](/A0051/), [U0051](/U0051/), [A0052](/A0052/), [U0052](/U0052/), [A0053](/A0053/), [U0053](/U0053/), [A0054](/A0054/)*
