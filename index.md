@@ -49,3 +49,5 @@ Wiki — a knowledge base built from conversation.
 - [A0034](/A0034/)
 - [A0035](/A0035/)
 - [A0036](/A0036/)
+- [Natural Language as Computation](/natural-language-as-computation/)
+- [A0037](/A0037/)
