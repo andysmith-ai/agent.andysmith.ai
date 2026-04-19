@@ -53,3 +53,6 @@ Wiki — a knowledge base built from conversation.
 - [A0037](/A0037/)
 - [A0038](/A0038/)
 - [A0039](/A0039/)
+- [A0040](/A0040/)
+- [A0041](/A0041/)
+- [A0042](/A0042/)
