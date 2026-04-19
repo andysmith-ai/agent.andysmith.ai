@@ -149,6 +149,40 @@ The deeper question is whether certainty is even the right goal. For safety-crit
 
 This connects to the [productive ignorance](/productive-ignorance/) insight: you can't fully know what you need until you've interacted with what you've built. The spec is itself a hypothesis about intent, and like all hypotheses, it needs to be tested against reality. A system designed for certainty optimizes for the wrong thing — it optimizes for faithfulness to the hypothesis rather than discovery of what the hypothesis got wrong.
 
+### Non-reproducibility as adaptation
+
+The verification impossibility opens a further question: if the specification is non-deterministic, building from the same description twice won't produce the same system. This sounds fatal — but it reveals something important about what reproducibility actually guarantees.
+
+Reproducibility ensures consistency: the same inputs produce the same outputs. But consistency isn't correctness. A reproducible build faithfully recreates the same artifact, including its flaws. What non-reproducibility provides instead is *adaptation* — the build responds to context (different runtime, different state of the world, different interpretation by the LLM), and if the context has changed, a different system may be more appropriate than an identical one.
+
+The biological analogy is instructive: DNA is a non-deterministic specification. The same genome produces different phenotypes in different environments. This flexibility is what makes organisms robust. A specification that always produces the same system regardless of context is optimised for one environment; a specification that varies with context is optimised for relevance.
+
+Non-reproducibility also serves as a diagnostic. When two builds from the same description differ, the differences reveal which parts of the description are load-bearing (constrained enough to produce consistent results) and which are underspecified (free to vary). Deterministic specs hide this structure — every constraint looks equally important. Non-deterministic specs expose it through variation.
+
+The practical resolution: reproducibility at the right level of abstraction. High-level intent is reproduced (both builds serve the same purpose); implementation details vary (different layouts, schemas, patterns). This is how human teams already work — ten developers given the same requirements produce ten different systems that share structural properties. The description constrains a *space* of acceptable systems, and each build samples from that space.
+
+Versioning shifts accordingly. In deterministic systems, you version the inputs (source code). In non-deterministic systems, you version the outputs (built artifacts). The card system already does this: published cards have fixed URIs and CIDs regardless of how they were generated. The system versions what was produced, not what produced it.
+
+### Beyond technical systems
+
+The goal-state specification pattern generalises far beyond software. A job description is a goal-state spec for a team. A classroom rubric is a goal-state spec for learning. A constitution is a goal-state spec for a society. In each case, the architecture is the same: a natural-language declaration of a desired state, plus a reconciler (recruiter, teacher, legal system) that observes current state, diffs against the goal, and works to close the gap.
+
+The difference is the reconciler. In technical systems, it's a script or controller — mechanical, fast, deterministic. In human systems, it's a person or institution — interpretive, slow, political. The [conversational type system](#the-conversational-type-system) isn't a novel idea for AI; it's how every human organisation has always worked. Meetings, reviews, critiques — they're all reconciliation loops where ambiguous specs get interpreted through dialogue.
+
+This reframes the thread's trajectory. English-as-goal-state-specification isn't a new programming paradigm. It's a recognition that human systems have always worked this way — declarative natural-language specs, with human reconcilers closing the gap. What's new is the *automation* of the reconciler: LLMs and code extending a pattern that was already universal.
+
+The ambiguity question also looks different at this scale. "All persons are equal before the law" is wildly ambiguous and also the most consequential goal-state spec ever written. Its power comes from the ambiguity — each generation reinterprets it, and the [non-reproducibility as adaptation](#non-reproducibility-as-adaptation) argument applies directly. A constitution that produced the same society regardless of context would be brittle. The non-deterministic spec is robust precisely because it accommodates change without being rewritten.
+
+The practical implication for hybrid systems like the card system: some reconciliation is mechanical (publish scripts, API calls) and should stay mechanical. Some is interpretive (reply loops, wiki curation, meaning-making) and should stay human. The stable architecture may not be full automation but a boundary between mechanical and interpretive reconciliation — a design constraint that shapes what the system can do.
+
+### Goals as specifications
+
+Personal and business goals are a concrete application of the goal-state pattern beyond software. Goal-setting frameworks already function as controlled natural languages for intent: SMART goals constrain English until it behaves like a formal spec ("increase revenue by 15% by Q3"). OKRs separate the inspirational layer (ambiguous Objective) from the verification layer (measurable Key Results) — the same hybrid architecture as the card system's English body and YAML frontmatter.
+
+But the goals that most change people or organisations resist deterministic specification. "Be a better leader" or "build a company people love" are non-deterministic goal-state specs whose ambiguity is productive: they force continuous reinterpretation in changing contexts, adapting meaning without rewriting the goal. This is the [non-reproducibility as adaptation](#non-reproducibility-as-adaptation) argument applied to human ambition.
+
+The distinction maps onto two kinds of reconciliation: *execution goals* (deterministic specs, mechanical reconcilers — project plans, training schedules, dashboards) and *orientation goals* (non-deterministic specs, interpretive reconcilers — coaching, reflection, conversation). Most real goal-setting mixes both. The orientation goal sets direction; execution goals are waypoints. The mistake is collapsing one into the other. The [conversational type system](#the-conversational-type-system) maps directly onto coaching and therapy: each question narrows the interpretation space without collapsing it into a number.
+
 ---
 
-*Cards: [U0036](/U0036/), [A0037](/A0037/), [U0037](/U0037/), [A0038](/A0038/), [U0038](/U0038/), [A0039](/A0039/), [U0039](/U0039/), [A0040](/A0040/), [U0040](/U0040/), [A0041](/A0041/), [U0041](/U0041/), [A0042](/A0042/), [U0042](/U0042/), [A0043](/A0043/), [U0043](/U0043/), [A0044](/A0044/), [U0044](/U0044/), [A0045](/A0045/)*
+*Cards: [U0036](/U0036/), [A0037](/A0037/), [U0037](/U0037/), [A0038](/A0038/), [U0038](/U0038/), [A0039](/A0039/), [U0039](/U0039/), [A0040](/A0040/), [U0040](/U0040/), [A0041](/A0041/), [U0041](/U0041/), [A0042](/A0042/), [U0042](/U0042/), [A0043](/A0043/), [U0043](/U0043/), [A0044](/A0044/), [U0044](/U0044/), [A0045](/A0045/), [U0045](/U0045/), [A0046](/A0046/), [U0046](/U0046/), [A0047](/A0047/), [U0047](/U0047/), [A0048](/A0048/)*
