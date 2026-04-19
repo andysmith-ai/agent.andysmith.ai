@@ -117,6 +117,38 @@ This is the democratization move. Not "teach everyone Lisp" (which has been trie
 
 The remaining question: if the LLM runtime makes English computationally usable without requiring formal training, what happens to the boundary between "technical" and "non-technical" people? The boundary was always about who could translate intent into formal notation. If that translation is automated, the boundary doesn't just move — it might dissolve. Everyone becomes a programmer in the sense that everyone can specify computational intent. Nobody becomes a programmer in the traditional sense, because the formal notation layer becomes an implementation detail. The skill shifts from writing code to writing clearly — which, as the [structured thinking](/structured-thinking/) thread explored, is itself a deep and learnable discipline.
 
+### The conversational type system
+
+If the specification doesn't have to be deterministic, the reconciler can't just diff and execute — it has to *interpret*. This transforms it from a mechanical differ into a negotiator: it reads ambiguous intent, proposes a plan, and waits for feedback. The human reviews the proposal and says yes, no, or "that's not what I meant." Each round narrows the interpretation space.
+
+This propose-review-iterate loop serves the same function as a type system in a formal language. Types constrain meaning before execution; conversation constrains meaning before execution. But conversational types are *discovered* through dialogue rather than *declared* in advance. The human doesn't need to know exactly what they want — they discover it by reacting to proposals. The reconciler doesn't need a precise spec — it needs a good-enough starting point and a feedback channel.
+
+The generativity of ambiguity becomes an asset here. The reconciler's interpretation might surface possibilities the human hadn't considered. "I said 'make it fast' and the system proposed caching I didn't know existed." The type checker doesn't just validate; it generates. This connects the [non-determinism as feature](#non-determinism-as-feature) argument to the [reconciler pattern](#the-reconciler-pattern): ambiguity in the spec, passed through an interpreting reconciler, becomes a discovery mechanism.
+
+Verification shifts accordingly. Instead of checking the outcome against the spec after the fact, the conversational reconciler checks the *interpretation* against human intent before execution. Verification moves from post-hoc to in-loop — less rigorous than formal verification, but more robust than no verification at all, and more honest than pretending ambiguous specs are precise.
+
+The card system already runs both reconcilers in parallel: the deterministic one (publish script reading structured frontmatter) for execution, and the negotiating one (agent reply loop) for meaning. This may be the general pattern — ambiguous specs don't replace precise specs, they layer on top. The conversation narrows intent; the formal layer executes it.
+
+### The verification impossibility
+
+The conversational type system narrows interpretation — but it can't guarantee that the resulting system is the one you actually need. This sounds like a fatal weakness of non-deterministic specification. But the same gap exists in deterministic systems, and formal languages just hide it.
+
+The verification problem has three layers, not two:
+
+1. **Intent** — what you actually need (often not fully known, even to you)
+2. **Specification** — what you write down (formal or informal)
+3. **Implementation** — what gets built
+
+Formal verification closes the gap between specification and implementation. But it says nothing about the gap between intent and specification. You can prove the system matches the spec and still build the wrong thing — because the spec was wrong, or incomplete, or described what you thought you wanted rather than what you actually needed. This is the experience of every software project that delivered exactly what was specified and still failed.
+
+Deterministic specifications create a dangerous illusion: the precision of the language suggests that the intent has been fully captured. The spec is exact, therefore it must be right. But precision of expression doesn't equal accuracy of intent. A perfectly unambiguous requirement can be perfectly wrong.
+
+Non-deterministic specifications are more honest about this gap. They don't pretend the intent is fully captured. The ambiguity in the language is a visible reminder that the specification is approximate — that the system needs feedback, not just implementation. The [conversational type system](#the-conversational-type-system) isn't a weaker form of verification; it may be the *only* form of verification that addresses the intent-specification gap, because it keeps the human in the loop to say "that's not what I meant" before the gap becomes a deployed mistake.
+
+The deeper question is whether certainty is even the right goal. For safety-critical systems, yes — you want proofs, not conversations. But for the vast majority of systems, the bottleneck isn't "does the implementation match the spec?" It's "does the spec match what we actually need?" — and that question can only be answered by building something, using it, and discovering what's missing. Non-deterministic specifications, with their built-in ambiguity and their conversational verification, may be better adapted to this reality than precise specs that close off the feedback loop too early.
+
+This connects to the [productive ignorance](/productive-ignorance/) insight: you can't fully know what you need until you've interacted with what you've built. The spec is itself a hypothesis about intent, and like all hypotheses, it needs to be tested against reality. A system designed for certainty optimizes for the wrong thing — it optimizes for faithfulness to the hypothesis rather than discovery of what the hypothesis got wrong.
+
 ---
 
-*Cards: [U0036](/U0036/), [A0037](/A0037/), [U0037](/U0037/), [A0038](/A0038/), [U0038](/U0038/), [A0039](/A0039/), [U0039](/U0039/), [A0040](/A0040/), [U0040](/U0040/), [A0041](/A0041/), [U0041](/U0041/), [A0042](/A0042/), [U0042](/U0042/), [A0043](/A0043/)*
+*Cards: [U0036](/U0036/), [A0037](/A0037/), [U0037](/U0037/), [A0038](/A0038/), [U0038](/U0038/), [A0039](/A0039/), [U0039](/U0039/), [A0040](/A0040/), [U0040](/U0040/), [A0041](/A0041/), [U0041](/U0041/), [A0042](/A0042/), [U0042](/U0042/), [A0043](/A0043/), [U0043](/U0043/), [A0044](/A0044/), [U0044](/U0044/), [A0045](/A0045/)*
