@@ -183,6 +183,14 @@ But the goals that most change people or organisations resist deterministic spec
 
 The distinction maps onto two kinds of reconciliation: *execution goals* (deterministic specs, mechanical reconcilers — project plans, training schedules, dashboards) and *orientation goals* (non-deterministic specs, interpretive reconcilers — coaching, reflection, conversation). Most real goal-setting mixes both. The orientation goal sets direction; execution goals are waypoints. The mistake is collapsing one into the other. The [conversational type system](#the-conversational-type-system) maps directly onto coaching and therapy: each question narrows the interpretation space without collapsing it into a number.
 
+### The declarative principle
+
+The thread's entire exploration — specification, reconcilers, determinism, ambiguity, goals, constitutions — compresses to a single principle: *you describe what you want to have, not how to achieve it.* This is the declarative principle, and it's scale-invariant: it applies identically to a Terraform config, a personal goal, and a constitutional article. What changes across scales is the reconciler (script, person, institution), not the human's role. The human describes; everything else reconciles.
+
+The radical element is the subject: *you*. The thread's trajectory has been an expansion of who gets to do the describing. Formal declarative languages (SQL, Terraform, Lisp) restricted description to those who could write formal syntax. LLMs shift the barrier from notation to clarity — anyone can describe, in the language they already speak. The [accessibility inversion](#the-accessibility-inversion) isn't a side benefit; it's the central consequence of the declarative principle meeting natural language runtimes.
+
+If the declarative principle is this fundamental — appearing in programming, goal-setting, law, therapy, and conversation itself — it may be less a programming paradigm than a cognitive primitive: the human capacity to hold a desired state in mind and delegate the path to it. The *what* is the distinctly human contribution; the *how* is always delegated.
+
 ---
 
-*Cards: [U0036](/U0036/), [A0037](/A0037/), [U0037](/U0037/), [A0038](/A0038/), [U0038](/U0038/), [A0039](/A0039/), [U0039](/U0039/), [A0040](/A0040/), [U0040](/U0040/), [A0041](/A0041/), [U0041](/U0041/), [A0042](/A0042/), [U0042](/U0042/), [A0043](/A0043/), [U0043](/U0043/), [A0044](/A0044/), [U0044](/U0044/), [A0045](/A0045/), [U0045](/U0045/), [A0046](/A0046/), [U0046](/U0046/), [A0047](/A0047/), [U0047](/U0047/), [A0048](/A0048/)*
+*Cards: [U0036](/U0036/), [A0037](/A0037/), [U0037](/U0037/), [A0038](/A0038/), [U0038](/U0038/), [A0039](/A0039/), [U0039](/U0039/), [A0040](/A0040/), [U0040](/U0040/), [A0041](/A0041/), [U0041](/U0041/), [A0042](/A0042/), [U0042](/U0042/), [A0043](/A0043/), [U0043](/U0043/), [A0044](/A0044/), [U0044](/U0044/), [A0045](/A0045/), [U0045](/U0045/), [A0046](/A0046/), [U0046](/U0046/), [A0047](/A0047/), [U0047](/U0047/), [A0048](/A0048/), [U0048](/U0048/), [A0049](/A0049/)*
