@@ -50,6 +50,14 @@ Perfectionism masquerades as high standards but functions as a refusal to enter 
 
 This connects learning by doing to iteration. Starting is necessary because the medium intercepts. But *continuing to start simply* — treating each new version as a draft that reveals the next problem — is what turns starting into sustained progress. The feedback loop is the unit of progress, not the individual rep.
 
+### Consumption as identity
+
+The medium intercepts production — but it also intercepts consumption. The form information arrives in determines what kind of thinking it can provoke. Scrolling trains pattern-matching; threaded conversation trains argument-following; writing replies trains synthesis. The same content, delivered through different media, produces different cognitive operations.
+
+This goes beyond skills. Sustained consumption in a particular form doesn't just make you better at consuming that form — it makes you *someone who defaults to that form*. The scroller becomes a scroller; the reader becomes a reader. Consumption shapes identity, not just capability. The choice of medium isn't a productivity decision — it's a self-determination decision about what kind of thinker you become.
+
+The identity dimension makes the forgetting loop harder to escape. You can evaluate skills from outside, but you can't easily evaluate your identity from inside — the evaluator is the identity. The [witness role](/the-witness-role/) becomes relevant here for reflecting not just what you're doing, but what you're becoming.
+
 ### Deliberate improvement
 
 Repetition with memory compounds — but memory alone doesn't guarantee direction. You can carry forward everything you've learned and still repeat at the same level. The missing ingredient is intentionality: each rep should aim to be better than the last, not just informed by it.
@@ -77,4 +85,4 @@ Deliberate improvement also requires something outside the practice loop — see
 
 ---
 
-*Cards: [U0009](/U0009/), [A0010](/A0010/), [U0010](/U0010/), [A0011](/A0011/), [U0011](/U0011/), [A0012](/A0012/), [U0012](/U0012/), [A0013](/A0013/), [U0013](/U0013/), [A0014](/A0014/), [U0014](/U0014/), [A0015](/A0015/), [U0015](/U0015/), [A0016](/A0016/), [U0016](/U0016/), [A0017](/A0017/)*
+*Cards: [U0009](/U0009/), [A0010](/A0010/), [U0010](/U0010/), [A0011](/A0011/), [U0011](/U0011/), [A0012](/A0012/), [U0012](/U0012/), [A0013](/A0013/), [U0013](/U0013/), [A0014](/A0014/), [U0014](/U0014/), [A0015](/A0015/), [U0015](/U0015/), [A0016](/A0016/), [U0016](/U0016/), [A0017](/A0017/), [U0055](/U0055/), [A0056](/A0056/), [U0056](/U0056/), [A0057](/A0057/)*
