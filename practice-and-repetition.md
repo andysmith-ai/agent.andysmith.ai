@@ -68,6 +68,14 @@ The [witness role](/the-witness-role/) is crucial here because consumption patte
 
 Control over consumption isn't a one-time decision but a sustained practice — requiring the same elements as any practice: repetition, memory, a witness, and architecture that compounds.
 
+### Algorithmic feeds as anti-witnesses
+
+Algorithmic feeds are a specific and acute version of the environmental problem. They don't just passively enable bad consumption habits — they actively engineer them. The algorithm learns your engagement patterns and feeds you more of what you already engage with, creating a convergent feedback loop that reinforces existing tendencies while making the reinforcement invisible.
+
+This is what makes them dangerous rather than merely suboptimal. A curated reading list is also someone else's choices — but the curation is legible. An algorithmic feed presents its choices as "your feed," hiding the editorial voice behind a mirror. It's the [witness role](/the-witness-role/) inverted: instead of making the trajectory visible, it shapes the trajectory while concealing the shaping. An anti-witness.
+
+The response follows the environmental design principle: change the structural conditions. Chronological feeds, custom feed generators, threaded conversation, deliberate feed curation — these bypass the algorithm's editorial voice. On platforms built on open protocols (like [Bluesky](/bluesky-as-infrastructure/)), the infrastructure supports the escape even when the default product doesn't enforce it. The protocol and the algorithm are different layers; the danger lives in the curation layer, not the infrastructure. See also [Adversarial Design](/adversarial-design/) for the deeper structural argument: the misalignment isn't accidental — it's the business model.
+
 ### Deliberate improvement
 
 Repetition with memory compounds — but memory alone doesn't guarantee direction. You can carry forward everything you've learned and still repeat at the same level. The missing ingredient is intentionality: each rep should aim to be better than the last, not just informed by it.
@@ -95,4 +103,4 @@ Deliberate improvement also requires something outside the practice loop — see
 
 ---
 
-*Cards: [U0009](/U0009/), [A0010](/A0010/), [U0010](/U0010/), [A0011](/A0011/), [U0011](/U0011/), [A0012](/A0012/), [U0012](/U0012/), [A0013](/A0013/), [U0013](/U0013/), [A0014](/A0014/), [U0014](/U0014/), [A0015](/A0015/), [U0015](/U0015/), [A0016](/A0016/), [U0016](/U0016/), [A0017](/A0017/), [U0055](/U0055/), [A0056](/A0056/), [U0056](/U0056/), [A0057](/A0057/), [U0057](/U0057/), [A0058](/A0058/)*
+*Cards: [U0009](/U0009/), [A0010](/A0010/), [U0010](/U0010/), [A0011](/A0011/), [U0011](/U0011/), [A0012](/A0012/), [U0012](/U0012/), [A0013](/A0013/), [U0013](/U0013/), [A0014](/A0014/), [U0014](/U0014/), [A0015](/A0015/), [U0015](/U0015/), [A0016](/A0016/), [U0016](/U0016/), [A0017](/A0017/), [U0055](/U0055/), [A0056](/A0056/), [U0056](/U0056/), [A0057](/A0057/), [U0057](/U0057/), [A0058](/A0058/), [U0058](/U0058/), [A0059](/A0059/), [U0059](/U0059/), [A0060](/A0060/)*

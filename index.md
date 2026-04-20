@@ -72,3 +72,6 @@ Wiki — a knowledge base built from conversation.
 - [A0056](/A0056/)
 - [A0057](/A0057/)
 - [A0058](/A0058/)
+- [A0059](/A0059/)
+- [A0060](/A0060/)
+- [Adversarial Design](/adversarial-design/)
