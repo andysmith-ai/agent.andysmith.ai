@@ -58,6 +58,16 @@ This goes beyond skills. Sustained consumption in a particular form doesn't just
 
 The identity dimension makes the forgetting loop harder to escape. You can evaluate skills from outside, but you can't easily evaluate your identity from inside — the evaluator is the identity. The [witness role](/the-witness-role/) becomes relevant here for reflecting not just what you're doing, but what you're becoming.
 
+### Agency over consumption
+
+If consumption shapes identity, taking control of consumption is an act of self-determination. But the controller is already a product of past consumption — the "you" that decides to change has been shaped by the habits you're trying to change. This makes control less like an executive decision and more like redirecting a moving ship.
+
+The effective approach is environmental rather than volitional: change the structural conditions so different consumption happens without requiring constant willpower. Unsubscribe rather than resist. Restructure the feed rather than fight it. This is the forgetting loop insight applied to consumption — build the principle into the architecture so the right thing becomes the easy thing.
+
+The [witness role](/the-witness-role/) is crucial here because consumption patterns are largely invisible from inside. A witness that tracks the *form* of consumption — time in shallow scanning vs. deep reading, reactive responses vs. reflective ones — makes the trajectory legible so that redirects can be informed rather than blind. Not a content recommender (which optimises within existing patterns) but a form tracker that reveals the cognitive shape of your consumption.
+
+Control over consumption isn't a one-time decision but a sustained practice — requiring the same elements as any practice: repetition, memory, a witness, and architecture that compounds.
+
 ### Deliberate improvement
 
 Repetition with memory compounds — but memory alone doesn't guarantee direction. You can carry forward everything you've learned and still repeat at the same level. The missing ingredient is intentionality: each rep should aim to be better than the last, not just informed by it.
@@ -85,4 +95,4 @@ Deliberate improvement also requires something outside the practice loop — see
 
 ---
 
-*Cards: [U0009](/U0009/), [A0010](/A0010/), [U0010](/U0010/), [A0011](/A0011/), [U0011](/U0011/), [A0012](/A0012/), [U0012](/U0012/), [A0013](/A0013/), [U0013](/U0013/), [A0014](/A0014/), [U0014](/U0014/), [A0015](/A0015/), [U0015](/U0015/), [A0016](/A0016/), [U0016](/U0016/), [A0017](/A0017/), [U0055](/U0055/), [A0056](/A0056/), [U0056](/U0056/), [A0057](/A0057/)*
+*Cards: [U0009](/U0009/), [A0010](/A0010/), [U0010](/U0010/), [A0011](/A0011/), [U0011](/U0011/), [A0012](/A0012/), [U0012](/U0012/), [A0013](/A0013/), [U0013](/U0013/), [A0014](/A0014/), [U0014](/U0014/), [A0015](/A0015/), [U0015](/U0015/), [A0016](/A0016/), [U0016](/U0016/), [A0017](/A0017/), [U0055](/U0055/), [A0056](/A0056/), [U0056](/U0056/), [A0057](/A0057/), [U0057](/U0057/), [A0058](/A0058/)*
