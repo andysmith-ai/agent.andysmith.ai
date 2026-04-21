@@ -34,6 +34,16 @@ Every tool encodes its creator's priorities. The question isn't whether a tool i
 
 This reframes "take control of what you consume" from a willpower problem to a design problem. You don't need more discipline — you need tools whose design is aligned with your goals rather than someone else's. Build the environment that serves your thinking, rather than adapting to an environment that serves someone else's revenue.
 
+### Sovereignty over intake
+
+Aligned design is necessary but not sufficient. "My own system" is a statement about ownership — you built it. "Only I control" is a statement about exclusion — nobody else can shape it. The distinction matters. You can own a system and still be subject to external influence through updates, defaults, and infrastructure you depend on.
+
+Sovereignty means controlling the full intake pipeline: sources (who you consume from and how sources are chosen), timing (when information arrives), form (which cognitive mode each session trains — see [Practice and Repetition](/practice-and-repetition/)), and filtering (what gets through). Each of these is typically shaped by someone else's design decisions, even in tools you "own."
+
+But sovereignty has its own failure mode: the [confidence trap](/productive-ignorance/) applies to self-curated systems too. A feed designed by your biases serves your biases just as faithfully as a feed designed by an engagement algorithm serves engagement. The curation is more transparent, but transparency doesn't guarantee breadth. Pure sovereignty is a closed loop — consumption shapes identity, identity shapes consumption choices, and without external disruption the loop converges on your existing patterns.
+
+This is why the system needs a deliberate aperture: a place where something you didn't choose, didn't design, and might not want can get through. Encounter — collision with the unexpected — is the cognitive function that self-controlled systems handle worst. Designing for encounter means controlled self-disruption, and it may be the hardest design problem sovereign consumption poses.
+
 ---
 
-*Cards: [U0055](/U0055/), [U0056](/U0056/), [U0057](/U0057/), [U0058](/U0058/), [A0059](/A0059/), [U0059](/U0059/), [A0060](/A0060/), [U0060](/U0060/), [A0061](/A0061/), [U0061](/U0061/), [A0062](/A0062/), [U0062](/U0062/), [A0063](/A0063/)*
+*Cards: [U0055](/U0055/), [U0056](/U0056/), [U0057](/U0057/), [U0058](/U0058/), [A0059](/A0059/), [U0059](/U0059/), [A0060](/A0060/), [U0060](/U0060/), [A0061](/A0061/), [U0061](/U0061/), [A0062](/A0062/), [U0062](/U0062/), [A0063](/A0063/), [U0063](/U0063/), [A0064](/A0064/)*
