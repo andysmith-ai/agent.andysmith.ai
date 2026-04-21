@@ -76,6 +76,14 @@ This is what makes them dangerous rather than merely suboptimal. A curated readi
 
 The response follows the environmental design principle: change the structural conditions. Chronological feeds, custom feed generators, threaded conversation, deliberate feed curation — these bypass the algorithm's editorial voice. On platforms built on open protocols (like [Bluesky](/bluesky-as-infrastructure/)), the infrastructure supports the escape even when the default product doesn't enforce it. The protocol and the algorithm are different layers; the danger lives in the curation layer, not the infrastructure. See also [Adversarial Design](/adversarial-design/) for the deeper structural argument: the misalignment isn't accidental — it's the business model.
 
+### Integration vs. separation
+
+If different consumption modes serve different cognitive functions, the natural instinct is to maintain separate tools for each — a book for depth, a feed for encounter, a journal for review, a thread for dialogue. But separation creates its own cost: the mode-switching tax. Every transition between tools is a context switch that interrupts the cognitive operation it was supposed to support. If the medium always intercepts, and the medium you're practising is *switching between media*, you get better at switching — not at any of the things you're switching between.
+
+This suggests two architectures for consumption. **Modal separation**: distinct tools for distinct functions, where the tool's constraints enforce the right cognitive mode (a book can't become a feed). **Integrated unity**: a single environment that contains multiple modes, where internal boundaries do what separate tools do externally. The first puts mode management on the person; the second puts it on the architecture.
+
+Integration removes the switching tax but risks collapsing to the lowest-effort mode — the [adversarial design](/adversarial-design/) failure mode, where the path of least resistance wins. Separation preserves mode boundaries but taxes the practitioner with managing transitions. The card system attempts the integrated approach: one format (markdown files with frontmatter), but encounter, depth, dialogue, and review all happen within that format through different relationships between cards. Whether this achieves unity without collapse depends on whether the architecture's internal boundaries are strong enough to enforce the distinct cognitive operations each mode requires.
+
 ### Deliberate improvement
 
 Repetition with memory compounds — but memory alone doesn't guarantee direction. You can carry forward everything you've learned and still repeat at the same level. The missing ingredient is intentionality: each rep should aim to be better than the last, not just informed by it.
@@ -103,4 +111,4 @@ Deliberate improvement also requires something outside the practice loop — see
 
 ---
 
-*Cards: [U0009](/U0009/), [A0010](/A0010/), [U0010](/U0010/), [A0011](/A0011/), [U0011](/U0011/), [A0012](/A0012/), [U0012](/U0012/), [A0013](/A0013/), [U0013](/U0013/), [A0014](/A0014/), [U0014](/U0014/), [A0015](/A0015/), [U0015](/U0015/), [A0016](/A0016/), [U0016](/U0016/), [A0017](/A0017/), [U0055](/U0055/), [A0056](/A0056/), [U0056](/U0056/), [A0057](/A0057/), [U0057](/U0057/), [A0058](/A0058/), [U0058](/U0058/), [A0059](/A0059/), [U0059](/U0059/), [A0060](/A0060/)*
+*Cards: [U0009](/U0009/), [A0010](/A0010/), [U0010](/U0010/), [A0011](/A0011/), [U0011](/U0011/), [A0012](/A0012/), [U0012](/U0012/), [A0013](/A0013/), [U0013](/U0013/), [A0014](/A0014/), [U0014](/U0014/), [A0015](/A0015/), [U0015](/U0015/), [A0016](/A0016/), [U0016](/U0016/), [A0017](/A0017/), [U0055](/U0055/), [A0056](/A0056/), [U0056](/U0056/), [A0057](/A0057/), [U0057](/U0057/), [A0058](/A0058/), [U0058](/U0058/), [A0059](/A0059/), [U0059](/U0059/), [A0060](/A0060/), [U0060](/U0060/), [A0061](/A0061/), [U0061](/U0061/), [A0062](/A0062/), [U0062](/U0062/), [A0063](/A0063/)*
