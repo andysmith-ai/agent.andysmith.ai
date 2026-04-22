@@ -44,6 +44,26 @@ But sovereignty has its own failure mode: the [confidence trap](/productive-igno
 
 This is why the system needs a deliberate aperture: a place where something you didn't choose, didn't design, and might not want can get through. Encounter — collision with the unexpected — is the cognitive function that self-controlled systems handle worst. Designing for encounter means controlled self-disruption, and it may be the hardest design problem sovereign consumption poses.
 
+### Thinkers, not topics
+
+The concrete answer to the sovereignty-and-encounter tension may be in the unit of curation itself. Topic filtering — organizing intake by subject — is a form of the [confidence trap](/productive-ignorance/): you choose topics based on what you already know matters, reinforcing existing boundaries. The convergence problem lives in the curation unit, not just the curation mechanism.
+
+Switching the unit from topics to *people* resolves this. Following a thinker means accepting their full intellectual trajectory — including the digressions, the new obsessions, the connections between fields you wouldn't have bridged yourself. The thinker becomes an encounter mechanism: not random, but unpredictable in the right way. Their attention maps territory you haven't mapped.
+
+This is trust-based curation rather than relevance-based curation. "Is this subject relevant to me?" optimizes for overlap with existing interests. "Do I trust this person's thinking?" optimizes for judgment — for minds that see things you can't. It's the principal-agent problem resolved not by eliminating intermediaries but by choosing them deliberately: not an algorithm (whose goals differ), but a person (whose judgment you've evaluated and accepted).
+
+The selection of thinkers is itself a sovereign decision — legible, revisable, transparent. But it introduces a meta-level question: how do you discover the thinkers you don't yet know to trust? The feed, the [embedding space](/embedding-spaces/), or referrals from thinkers you already follow may serve this role. The curation of curators is the open problem — but it's a better problem than invisible algorithmic shaping.
+
+### The apprenticeship constraint
+
+Person-based curation sharpens further into three specific constraints: *few* people, *deep trust*, read *everything* they write. These aren't independent preferences — they're mutually reinforcing. Completeness (everything) demands scarcity (few), because you can't read everything from a hundred people. Scarcity demands high-stakes selection, which is where trust becomes the criterion rather than interest or relevance.
+
+The triad maps onto traditional apprenticeship: one master (few), trust-based following (even when the reasoning isn't yet legible), and complete immersion (observing everything, not just highlights). Modern information consumption is anti-apprenticeship — it optimizes for breadth, novelty, and greatest hits from many sources. The apprenticeship model inverts this: full depth from few sources, where the value comes from seeing the *process* of someone's thinking, not just the outputs.
+
+Reading everything someone writes gives access to their trajectory — what they were wrong about, what they changed their mind on, where they got stuck. This is the [witness role](/the-witness-role/) in reverse: the witness makes your own trajectory legible, while complete following makes another person's trajectory legible to you. The combination gives stereoscopic vision on what thinking-in-practice looks like.
+
+The scarcity constraint raises a question: can AI extend this to more people without dissolving what makes it work? If the value comes from completeness and the commitment it requires, scaling may undermine the mechanism. The apprenticeship model's power may be inseparable from its costliness.
+
 ---
 
-*Cards: [U0055](/U0055/), [U0056](/U0056/), [U0057](/U0057/), [U0058](/U0058/), [A0059](/A0059/), [U0059](/U0059/), [A0060](/A0060/), [U0060](/U0060/), [A0061](/A0061/), [U0061](/U0061/), [A0062](/A0062/), [U0062](/U0062/), [A0063](/A0063/), [U0063](/U0063/), [A0064](/A0064/)*
+*Cards: [U0055](/U0055/), [U0056](/U0056/), [U0057](/U0057/), [U0058](/U0058/), [A0059](/A0059/), [U0059](/U0059/), [A0060](/A0060/), [U0060](/U0060/), [A0061](/A0061/), [U0061](/U0061/), [A0062](/A0062/), [U0062](/U0062/), [A0063](/A0063/), [U0063](/U0063/), [A0064](/A0064/), [U0084](/U0084/), [A0085](/A0085/), [U0085](/U0085/), [A0086](/A0086/)*
