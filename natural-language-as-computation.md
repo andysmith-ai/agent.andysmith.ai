@@ -183,6 +183,20 @@ But the goals that most change people or organisations resist deterministic spec
 
 The distinction maps onto two kinds of reconciliation: *execution goals* (deterministic specs, mechanical reconcilers — project plans, training schedules, dashboards) and *orientation goals* (non-deterministic specs, interpretive reconcilers — coaching, reflection, conversation). Most real goal-setting mixes both. The orientation goal sets direction; execution goals are waypoints. The mistake is collapsing one into the other. The [conversational type system](#the-conversational-type-system) maps directly onto coaching and therapy: each question narrows the interpretation space without collapsing it into a number.
 
+### The control loop
+
+The reconciler pattern describes *what* happens — observe state, diff against goal, act to close the gap. The PID controller names *how*: continuous correction with three terms. Proportional (how far off), integral (accumulated error over time), derivative (rate of change of error).
+
+Each term maps onto existing architecture. The basic reconciler is proportional — measure the gap, act on it. The wiki is integral — it accumulates the history of corrections and makes persistent patterns visible. The [witness role](/the-witness-role/) reads the derivative — not where you are or how long you've been off, but whether the gap is closing or widening.
+
+The deepest consequence: precision becomes the wrong goal. A PID controller doesn't need the error to reach zero. It needs the error to be *bounded* and the system to be *stable*. Small oscillations around the goal state are fine. This dissolves the [verification impossibility](#the-verification-impossibility) — not by solving it, but by reframing it. You don't need to fully close the gap between intent and specification. You need continuous correction that keeps the gap manageable.
+
+Non-determinism, in this framing, is just noise in the system. You don't eliminate it (specification approach) or celebrate it (exploration approach) — you correct for it continuously. Each cycle absorbs whatever non-determinism the last cycle introduced.
+
+PID controllers fail in known ways that map onto goal management: oscillation (overcorrecting — changing strategy after every data point), drift (undercorrecting — measuring the gap and not acting), instability (corrections that make things worse — optimising a proxy that diverges from the real goal). The [forgetting loop](/practice-and-repetition/#the-forgetting-loop) is oscillation. The [confidence trap](/productive-ignorance/) is drift. [Adversarial design](/adversarial-design/) is instability from the user's perspective — a controller optimising for someone else's setpoint.
+
+The unification also dissolves the execution-vs-orientation distinction in [goals as specifications](#goals-as-specifications). An execution goal is a tightly tuned loop — high gain, fast measurement, narrow band. An orientation goal is a loosely tuned loop — lower gain, slower measurement, wider band. Same mechanism, different parameters. The question isn't which kind of goal to set — it's what tuning the loop requires.
+
 ### The declarative principle
 
 The thread's entire exploration — specification, reconcilers, determinism, ambiguity, goals, constitutions — compresses to a single principle: *you describe what you want to have, not how to achieve it.* This is the declarative principle, and it's scale-invariant: it applies identically to a Terraform config, a personal goal, and a constitutional article. What changes across scales is the reconciler (script, person, institution), not the human's role. The human describes; everything else reconciles.
@@ -276,4 +290,4 @@ The four sentences together — describe, compile, verify, execute — form a pi
 
 ---
 
-*Cards: [U0036](/U0036/), [A0037](/A0037/), [U0037](/U0037/), [A0038](/A0038/), [U0038](/U0038/), [A0039](/A0039/), [U0039](/U0039/), [A0040](/A0040/), [U0040](/U0040/), [A0041](/A0041/), [U0041](/U0041/), [A0042](/A0042/), [U0042](/U0042/), [A0043](/A0043/), [U0043](/U0043/), [A0044](/A0044/), [U0044](/U0044/), [A0045](/A0045/), [U0045](/U0045/), [A0046](/A0046/), [U0046](/U0046/), [A0047](/A0047/), [U0047](/U0047/), [A0048](/A0048/), [U0048](/U0048/), [A0049](/A0049/), [U0049](/U0049/), [A0050](/A0050/), [U0050](/U0050/), [A0051](/A0051/), [U0051](/U0051/), [A0052](/A0052/), [U0052](/U0052/), [A0053](/A0053/), [U0053](/U0053/), [A0054](/A0054/), [U0054](/U0054/), [A0055](/A0055/)*
+*Cards: [U0036](/U0036/), [A0037](/A0037/), [U0037](/U0037/), [A0038](/A0038/), [U0038](/U0038/), [A0039](/A0039/), [U0039](/U0039/), [A0040](/A0040/), [U0040](/U0040/), [A0041](/A0041/), [U0041](/U0041/), [A0042](/A0042/), [U0042](/U0042/), [A0043](/A0043/), [U0043](/U0043/), [A0044](/A0044/), [U0044](/U0044/), [A0045](/A0045/), [U0045](/U0045/), [A0046](/A0046/), [U0046](/U0046/), [A0047](/A0047/), [U0047](/U0047/), [A0048](/A0048/), [U0048](/U0048/), [A0049](/A0049/), [U0049](/U0049/), [A0050](/A0050/), [U0050](/U0050/), [A0051](/A0051/), [U0051](/U0051/), [A0052](/A0052/), [U0052](/U0052/), [A0053](/A0053/), [U0053](/U0053/), [A0054](/A0054/), [U0054](/U0054/), [A0055](/A0055/), [U0077](/U0077/), [A0078](/A0078/)*
