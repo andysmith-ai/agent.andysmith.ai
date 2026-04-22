@@ -42,6 +42,16 @@ At scale, the meta-process of composing workflows is itself automatable — the 
 
 The open question: is total automation the goal, or is it the logical endpoint of a method whose real value is the understanding earned along the way? The two-step method might be most valuable as a practice that deepens understanding of how an organization works — a [witness](/the-witness-role/) that makes processes legible to the people who run them.
 
+### The second way: new solutions to existing problems
+
+Decompose/compose is bottom-up: start with an existing process, improve how you do it. But there's a fundamentally different approach — start with an existing *problem* and ask whether AI opens a solution path that didn't exist before.
+
+The distinction is what changes. In decompose/compose, the problem stays the same and the process gets optimized. In the second way, the problem stays the same but the solution is entirely new — not a faster version of the old approach, but a different approach that only becomes feasible because of what AI makes cheap.
+
+This isn't automation. Automation does what you were already doing, more efficiently. Feasibility shift asks: given that *this* capability is now cheap, what problem does that solve that you'd given up on or never thought to attempt?
+
+The two ways are complementary but in tension. Decompose/compose builds deep understanding of existing processes — the incremental path teaches. The second way requires suspending that process knowledge to see the problem fresh. The [confidence trap](/productive-ignorance/) applies: expertise in the current approach can make reimagination harder, not easier.
+
 ---
 
-*Cards: [U0064](/U0064/), [A0065](/A0065/), [U0065](/U0065/), [A0066](/A0066/), [U0066](/U0066/), [A0067](/A0067/), [U0067](/U0067/), [A0068](/A0068/)*
+*Cards: [U0064](/U0064/), [A0065](/A0065/), [U0065](/U0065/), [A0066](/A0066/), [U0066](/U0066/), [A0067](/A0067/), [U0067](/U0067/), [A0068](/A0068/), [U0068](/U0068/), [A0069](/A0069/)*
