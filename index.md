@@ -97,3 +97,6 @@ Wiki — a knowledge base built from conversation.
 - [A0079](/A0079/)
 - [A0080](/A0080/)
 - [A0081](/A0081/)
+- [A0082](/A0082/)
+- [A0083](/A0083/)
+- [A0084](/A0084/)

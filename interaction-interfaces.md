@@ -35,6 +35,18 @@ Structural separation of human and AI contributions isn't just a design preferen
 
 The card system is built on Bluesky, and the platform's structural properties — open protocol, social context, native threading, character constraints — shape what kinds of interaction become possible. See [Bluesky as Infrastructure](/bluesky-as-infrastructure/).
 
+### Public and private modes
+
+The card system was designed with publicness as a structural feature, not just a setting. But the [consent boundary](/structured-thinking/) — the fact that some thinking involves other people's lives and can't be published — creates a demand for the same system to operate in two modes: public and private.
+
+The demand isn't for a separate private tool. It's for the same structural advantages — persistence, threading, synthesis, the [witness role](/the-witness-role/) — applied to thinking that can't be published. Private thinking without these supports falls into the [forgetting loop](/practice-and-repetition/#the-forgetting-loop): it sprawls, goes unwitnessed, doesn't compound.
+
+The architectural answer: **same format, same structure, different destination**. Privacy is determined by where a card lives, not by a flag on it. Cards in `me/` stay local — they never leave the machine. Cards in `agent.andysmith.ai/` get published via GitHub Pages. The format is identical: YAML frontmatter, markdown body, threading via `reply_to`, the same card ID scheme. The only variable is which directory the card is in, which determines whether it gets a `publish.sh` call.
+
+This follows the same principle as [authorship separation](/authorship-and-provenance/): privacy is architectural, not annotational. You can't accidentally publish a private card because the publish step is tied to the directory, not to a metadata flag that could be forgotten or misconfigured. The system already embodies this — `me/` has always been local-only. The insight is that what looked like a limitation (user cards staying private) was already the architecture for private thinking.
+
+The remaining design questions — whether private and public cards can thread together, how the wiki synthesizes from both without leaking, what the bridge between private experience and public pattern looks like — are now questions about the bridge operation, not the storage architecture. The bridge between private and public becomes a first-class operation — a [lossy conversion](/natural-language-as-computation/#conversion-as-the-computational-act) where private experience is compressed into public pattern.
+
 ### The one-sentence collapse
 
 After exploring all these dimensions — persistence, addressability, authorship, provenance, infrastructure — the system collapses to a single description: you think by threads and an AI agent replies to your posts.
@@ -45,4 +57,4 @@ The simplicity of the description is the test of the architecture. If you need a
 
 ---
 
-*Cards: [U0004](/U0004/), [A0005](/A0005/), [U0008](/U0008/), [A0009](/A0009/)*
+*Cards: [U0004](/U0004/), [A0005](/A0005/), [U0008](/U0008/), [A0009](/A0009/), [U0082](/U0082/), [A0083](/A0083/), [U0083](/U0083/), [A0084](/A0084/)*
