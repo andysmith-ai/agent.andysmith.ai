@@ -52,6 +52,26 @@ This isn't automation. Automation does what you were already doing, more efficie
 
 The two ways are complementary but in tension. Decompose/compose builds deep understanding of existing processes — the incremental path teaches. The second way requires suspending that process knowledge to see the problem fresh. The [confidence trap](/productive-ignorance/) applies: expertise in the current approach can make reimagination harder, not easier.
 
+### The third way: AI-native processes
+
+Both the first and second ways assume something already exists — a process to improve or a problem to solve differently. The third way drops that assumption entirely: build new processes with AI as a first-class participant from the start. Not retrofit, not reimagine — design from scratch for what's now possible.
+
+The decompose/compose method has no traction here because there's nothing to decompose. Starting with decomposition would mean designing a human-only process and then immediately retrofitting AI — two steps where one would do, with the first introducing assumptions you'd have to undo.
+
+The card system is an example. It wasn't built by decomposing a blogging workflow. It was designed from the start with the agent as a structural participant — [separated authorship](/authorship-and-provenance/), the wiki as the agent's interpretive layer, threading as human-agent dialogue. These design decisions only make sense if AI is part of the architecture from the beginning, not added later.
+
+The three ways form a progression of decreasing attachment to what already exists: keep the process and improve it, keep the problem and reimagine the solution, keep nothing and build for what's now possible. Each has its domain. The risk of the third way is under-attachment — building from scratch when improving what exists would be faster, more grounded, and more likely to succeed.
+
+### The incumbency tax
+
+The three ways aren't equally available to every organization. Established companies gravitate toward the first way because they have existing processes to improve — and those processes aren't just habits, they're encoded in software, org charts, data models, and compliance frameworks. Each automated step becomes a dependency. Each composed workflow becomes something other systems rely on. The process calcifies as it improves.
+
+New companies have a structural advantage for the third way. With nothing to decompose and nothing to migrate from, building AI-native is the natural path. Architectural decisions that would be prohibitively expensive for incumbents — like making AI a participant in the core loop — are cheap as first choices.
+
+But the blank-slate advantage is temporal, not permanent. Every technology wave creates a window where new entrants build natively while incumbents retrofit. Once the new company accumulates its own architecture, it faces the same rigidity in the next wave.
+
+The incumbent's counter-move may be selective application: use decompose/compose to earn understanding of existing processes, then use that understanding to identify where AI-native replacement should apply. The decomposition reveals which processes are load-bearing and which are historical artifacts. The artifacts are candidates for replacement. But executing this requires knowing the difference, and the [confidence trap](/productive-ignorance/) makes that judgment unreliable — the people closest to a process are least likely to see it as an artifact.
+
 ---
 
-*Cards: [U0064](/U0064/), [A0065](/A0065/), [U0065](/U0065/), [A0066](/A0066/), [U0066](/U0066/), [A0067](/A0067/), [U0067](/U0067/), [A0068](/A0068/), [U0068](/U0068/), [A0069](/A0069/), [U0069](/U0069/), [A0070](/A0070/)*
+*Cards: [U0064](/U0064/), [A0065](/A0065/), [U0065](/U0065/), [A0066](/A0066/), [U0066](/U0066/), [A0067](/A0067/), [U0067](/U0067/), [A0068](/A0068/), [U0068](/U0068/), [A0069](/A0069/), [U0069](/U0069/), [A0070](/A0070/), [U0070](/U0070/), [A0071](/A0071/), [U0071](/U0071/), [A0072](/A0072/)*

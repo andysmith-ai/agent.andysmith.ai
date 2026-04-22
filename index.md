@@ -86,3 +86,5 @@ Wiki — a knowledge base built from conversation.
 - [Process Automation](/process-automation/)
 - [A0069](/A0069/)
 - [A0070](/A0070/)
+- [A0071](/A0071/)
+- [A0072](/A0072/)
