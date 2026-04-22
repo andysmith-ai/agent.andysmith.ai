@@ -84,6 +84,16 @@ Measurement also connects to the [witness role](/the-witness-role/). A witness m
 
 The relationship to [productive ignorance](/productive-ignorance/) is specific: if you can't measure the problem, that's a signal about the quality of your understanding. The inability to measure isn't a practical inconvenience — it's an epistemic indicator. It tells you that your map of the problem has blank spaces in load-bearing locations. The right response isn't "build the process anyway" — it's "make the map better until measurement becomes possible."
 
+### Understanding through building
+
+But measurement-before-building can't be the whole story, because understanding and building aren't separate phases — they're the same activity. You don't understand a problem and then solve it. You start solving it and the understanding develops through the attempt.
+
+This resolves the tension between measurement-as-prerequisite and [starting simple](/practice-and-repetition/#starting-simple). The resolution isn't "sometimes measure first, sometimes build first." It's that measurement is something you discover *how to do* through building. The first attempt reveals what to measure. The measurement reveals what to build next. They iterate, not sequence.
+
+This is the [practice and repetition](/practice-and-repetition/) insight applied to problem understanding itself. The medium always intercepts — you can't understand a problem by thinking about it from the outside. You have to enter the problem, start moving, and let the contact teach you what the problem actually is. The metric isn't a prerequisite for action; it's a product of action. Early attempts produce rough proxies. Later attempts refine them. The understanding and the measurement co-develop.
+
+The implication for the three ways: none of them can be fully planned before they're attempted. Decomposition reveals structure you didn't expect. Reimagination encounters constraints you didn't know existed. AI-native design discovers its own requirements through iteration. The prerequisite isn't understanding — it's the willingness to start before you understand, and the discipline to measure what the attempt reveals.
+
 ### The taxonomy as diagnostic
 
 The three ways — improve, reimagine, build native — are a diagnostic tool for established organizations, not a strategy menu for new ones. A startup with no existing processes doesn't choose between the three ways. The first two don't apply (nothing to decompose, nothing to reimagine), and the third is the default path, not a strategic decision. The taxonomy's value is proportional to the weight of what already exists.
@@ -96,4 +106,4 @@ And every startup is a future incumbent. AI-native processes, once built, accumu
 
 ---
 
-*Cards: [U0064](/U0064/), [A0065](/A0065/), [U0065](/U0065/), [A0066](/A0066/), [U0066](/U0066/), [A0067](/A0067/), [U0067](/U0067/), [A0068](/A0068/), [U0068](/U0068/), [A0069](/A0069/), [U0069](/U0069/), [A0070](/A0070/), [U0070](/U0070/), [A0071](/A0071/), [U0071](/U0071/), [A0072](/A0072/), [U0072](/U0072/), [A0073](/A0073/), [U0073](/U0073/), [A0074](/A0074/)*
+*Cards: [U0064](/U0064/), [A0065](/A0065/), [U0065](/U0065/), [A0066](/A0066/), [U0066](/U0066/), [A0067](/A0067/), [U0067](/U0067/), [A0068](/A0068/), [U0068](/U0068/), [A0069](/A0069/), [U0069](/U0069/), [A0070](/A0070/), [U0070](/U0070/), [A0071](/A0071/), [U0071](/U0071/), [A0072](/A0072/), [U0072](/U0072/), [A0073](/A0073/), [U0073](/U0073/), [A0074](/A0074/), [U0074](/U0074/), [A0075](/A0075/)*
