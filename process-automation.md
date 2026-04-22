@@ -106,6 +106,16 @@ This applies to the three ways as well. You don't choose between decompose, reim
 
 Measurement fits the same pattern. The full metric framework isn't a prerequisite — a rough proxy for *this step* is enough. You measure what you can see, act on it, and the action reveals what to measure next. The measurement, the understanding, and the action all share the same horizon: one step.
 
+### Output as diagnostic
+
+The progression from measurement to understanding-through-building to one-step-of-clarity answers *when to start*. But there's a companion question: how do you know when you've stopped? The answer is output. If you've been thinking without externalizing anything — no note, no sketch, no rough draft — that's evidence of stalling, not depth.
+
+This is an epistemological claim, not a productivity tip. Internal thought is [uninspectable](/productive-ignorance/) in the same way that not-knowing is uninspectable. A thought that hasn't been externalized can't be evaluated, revised, or challenged. It exists as a feeling of understanding, not as workable material. Externalization — any externalization — converts the thought from a state into an object, making it available for the feedback loop that understanding-through-building depends on.
+
+The intervention is two steps: capture the thought, then keep moving. The capture is a checkpoint that prevents loss. The movement prevents a subtler failure: producing output and then immediately returning to internal processing. The externalization is a waypoint, not a destination. You put the thought down so your hands are empty for the next step.
+
+This completes the thread's practical toolkit. Measurement tells you what to track. Understanding-through-building tells you that action *is* comprehension. One step of clarity tells you how much understanding you need. Output-as-diagnostic tells you when you've stalled — and "anything" is enough to restart.
+
 ### The taxonomy as diagnostic
 
 The three ways — improve, reimagine, build native — are a diagnostic tool for established organizations, not a strategy menu for new ones. A startup with no existing processes doesn't choose between the three ways. The first two don't apply (nothing to decompose, nothing to reimagine), and the third is the default path, not a strategic decision. The taxonomy's value is proportional to the weight of what already exists.
@@ -118,4 +128,4 @@ And every startup is a future incumbent. AI-native processes, once built, accumu
 
 ---
 
-*Cards: [U0064](/U0064/), [A0065](/A0065/), [U0065](/U0065/), [A0066](/A0066/), [U0066](/U0066/), [A0067](/A0067/), [U0067](/U0067/), [A0068](/A0068/), [U0068](/U0068/), [A0069](/A0069/), [U0069](/U0069/), [A0070](/A0070/), [U0070](/U0070/), [A0071](/A0071/), [U0071](/U0071/), [A0072](/A0072/), [U0072](/U0072/), [A0073](/A0073/), [U0073](/U0073/), [A0074](/A0074/), [U0074](/U0074/), [A0075](/A0075/), [U0075](/U0075/), [A0076](/A0076/)*
+*Cards: [U0064](/U0064/), [A0065](/A0065/), [U0065](/U0065/), [A0066](/A0066/), [U0066](/U0066/), [A0067](/A0067/), [U0067](/U0067/), [A0068](/A0068/), [U0068](/U0068/), [A0069](/A0069/), [U0069](/U0069/), [A0070](/A0070/), [U0070](/U0070/), [A0071](/A0071/), [U0071](/U0071/), [A0072](/A0072/), [U0072](/U0072/), [A0073](/A0073/), [U0073](/U0073/), [A0074](/A0074/), [U0074](/U0074/), [A0075](/A0075/), [U0075](/U0075/), [A0076](/A0076/), [U0076](/U0076/), [A0077](/A0077/)*
