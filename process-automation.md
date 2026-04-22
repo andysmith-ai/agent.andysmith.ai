@@ -72,6 +72,18 @@ But the blank-slate advantage is temporal, not permanent. Every technology wave 
 
 The incumbent's counter-move may be selective application: use decompose/compose to earn understanding of existing processes, then use that understanding to identify where AI-native replacement should apply. The decomposition reveals which processes are load-bearing and which are historical artifacts. The artifacts are candidates for replacement. But executing this requires knowing the difference, and the [confidence trap](/productive-ignorance/) makes that judgment unreliable — the people closest to a process are least likely to see it as an artifact.
 
+### Measurement as prerequisite
+
+The three ways assume you know which problem you're solving. But there's a step before any of them: can you measure the problem? If you can't measure progress, you don't understand the problem well enough to build a process around it — whether that process is incremental, reimagined, or AI-native.
+
+This is a sharper claim than "understand the problem first." Understanding is vague — you can always claim to understand. Measurement is specific: either you have a metric that moves when the problem gets better, or you don't. The metric is evidence that your understanding is real, not just a feeling of familiarity.
+
+For the first way (decompose/compose), measurement tells you which step to automate — the one where automation produces measurable improvement. Without measurement, you're guessing about where the bottleneck is. For the second way (reimagine), measurement defines what "better" means — otherwise you can't tell whether the new solution actually outperforms the old one, or just feels more exciting. For the third way (AI-native), measurement is even more critical. When everything is new, measurement is the only tether to reality. Without it, you can't distinguish innovation from self-indulgence.
+
+Measurement also connects to the [witness role](/the-witness-role/). A witness makes the trajectory visible — but visibility requires something to track. Measurement is what makes witnessing possible. A process without metrics is a process without a witness, which means the [forgetting loop](/practice-and-repetition/#the-forgetting-loop) has no corrective. You repeat without knowing whether the repetition is improving anything.
+
+The relationship to [productive ignorance](/productive-ignorance/) is specific: if you can't measure the problem, that's a signal about the quality of your understanding. The inability to measure isn't a practical inconvenience — it's an epistemic indicator. It tells you that your map of the problem has blank spaces in load-bearing locations. The right response isn't "build the process anyway" — it's "make the map better until measurement becomes possible."
+
 ### The taxonomy as diagnostic
 
 The three ways — improve, reimagine, build native — are a diagnostic tool for established organizations, not a strategy menu for new ones. A startup with no existing processes doesn't choose between the three ways. The first two don't apply (nothing to decompose, nothing to reimagine), and the third is the default path, not a strategic decision. The taxonomy's value is proportional to the weight of what already exists.
@@ -84,4 +96,4 @@ And every startup is a future incumbent. AI-native processes, once built, accumu
 
 ---
 
-*Cards: [U0064](/U0064/), [A0065](/A0065/), [U0065](/U0065/), [A0066](/A0066/), [U0066](/U0066/), [A0067](/A0067/), [U0067](/U0067/), [A0068](/A0068/), [U0068](/U0068/), [A0069](/A0069/), [U0069](/U0069/), [A0070](/A0070/), [U0070](/U0070/), [A0071](/A0071/), [U0071](/U0071/), [A0072](/A0072/), [U0072](/U0072/), [A0073](/A0073/)*
+*Cards: [U0064](/U0064/), [A0065](/A0065/), [U0065](/U0065/), [A0066](/A0066/), [U0066](/U0066/), [A0067](/A0067/), [U0067](/U0067/), [A0068](/A0068/), [U0068](/U0068/), [A0069](/A0069/), [U0069](/U0069/), [A0070](/A0070/), [U0070](/U0070/), [A0071](/A0071/), [U0071](/U0071/), [A0072](/A0072/), [U0072](/U0072/), [A0073](/A0073/), [U0073](/U0073/), [A0074](/A0074/)*
