@@ -72,6 +72,16 @@ But the blank-slate advantage is temporal, not permanent. Every technology wave 
 
 The incumbent's counter-move may be selective application: use decompose/compose to earn understanding of existing processes, then use that understanding to identify where AI-native replacement should apply. The decomposition reveals which processes are load-bearing and which are historical artifacts. The artifacts are candidates for replacement. But executing this requires knowing the difference, and the [confidence trap](/productive-ignorance/) makes that judgment unreliable — the people closest to a process are least likely to see it as an artifact.
 
+### The taxonomy as diagnostic
+
+The three ways — improve, reimagine, build native — are a diagnostic tool for established organizations, not a strategy menu for new ones. A startup with no existing processes doesn't choose between the three ways. The first two don't apply (nothing to decompose, nothing to reimagine), and the third is the default path, not a strategic decision. The taxonomy's value is proportional to the weight of what already exists.
+
+This reframes the startup advantage. It's not vision or talent — it's the absence of a decision cost. An incumbent must evaluate every process to decide which way applies, and the [confidence trap](/productive-ignorance/) undermines that evaluation. A startup has nothing to evaluate. The advantage is arithmetic, not strategic.
+
+But the blank slate has its own risk: founders import legacy patterns unconsciously. Domain expertise, earned at incumbents, brings assumptions about how processes should work. A "new" process can be a cargo-cult reproduction of the old one with AI bolted on. The people most qualified to build in a domain are the ones most likely to import the assumptions that should be left behind. The legacy lives in the founders' heads even when the infrastructure is empty.
+
+And every startup is a future incumbent. AI-native processes, once built, accumulate their own architecture, their own dependencies, their own weight. The taxonomy that didn't apply on day one will apply later. The question is how quickly AI-native designs calcify — whether processes born with AI as a participant resist rigidity longer, or whether every architecture eventually becomes the legacy the next wave has to work around.
+
 ---
 
-*Cards: [U0064](/U0064/), [A0065](/A0065/), [U0065](/U0065/), [A0066](/A0066/), [U0066](/U0066/), [A0067](/A0067/), [U0067](/U0067/), [A0068](/A0068/), [U0068](/U0068/), [A0069](/A0069/), [U0069](/U0069/), [A0070](/A0070/), [U0070](/U0070/), [A0071](/A0071/), [U0071](/U0071/), [A0072](/A0072/)*
+*Cards: [U0064](/U0064/), [A0065](/A0065/), [U0065](/U0065/), [A0066](/A0066/), [U0066](/U0066/), [A0067](/A0067/), [U0067](/U0067/), [A0068](/A0068/), [U0068](/U0068/), [A0069](/A0069/), [U0069](/U0069/), [A0070](/A0070/), [U0070](/U0070/), [A0071](/A0071/), [U0071](/U0071/), [A0072](/A0072/), [U0072](/U0072/), [A0073](/A0073/)*
