@@ -44,6 +44,16 @@ The thread graph is also a map of the known that reveals its own blank spaces (s
 
 But the thread graph maps *process*, not *content*. Its edges say "provoked" not "means." The graph is a skeleton — it shows what led to what but not what anything is about. This is a fundamental limitation, not a resolution issue. Content and process are different dimensions of thinking, and the thread graph captures only one. Where the wiki's gaps are conceptual (topics not covered), the thread graph's gaps are attentional (conversations not continued). Reading the mismatch between the two — content-dense but process-thin, or process-dense but content-thin — reveals fragilities that neither map shows alone.
 
+### Publicness as default
+
+The practical arguments for public thinking — it forces clarity, enables encounter, creates a [social surface](/productive-ignorance/) — describe publicness as a *tool*. But there's a stronger claim: all ideas and notes *should* be public. Not because publicness is useful, but because privacy is the wrong default for thinking.
+
+The distinction matters. If publicness is a tool, you use it when it helps and go private when it doesn't. If publicness is a principle, it applies even when it's uncomfortable — especially when it's uncomfortable, because discomfort often signals the ideas most worth examining publicly. The principle reframes privacy not as a neutral default but as an active choice to withhold, requiring justification rather than being assumed.
+
+This connects to several threads. The [map as social surface](/productive-ignorance/) becomes not an optional feature but a defining commitment: your blank spaces, your half-formed ideas, your wrong turns are all visible. [Authorship and provenance](/authorship-and-provenance/) becomes more critical when everything is public — structural separation of who thought what isn't just hygienic, it's the mechanism that makes radical openness sustainable. And the [adversarial design](/adversarial-design/) concern about sovereignty over intake has a mirror: sovereignty over *output*, where the sovereign choice is to hold nothing back.
+
+The open question: does publicness-as-default conflict with the conditions for genuine exploration? Some thinking may need a protected space to develop — not because the ideas are secret, but because premature exposure to an audience changes what you're willing to try. The tension between publicness as a thinking tool and publicness as an ethical commitment may be where the most interesting design decisions live.
+
 ### Practice and the witness
 
 The structure of a medium only reveals itself through use — you can't learn to think in threads by reading about threads. Doing is learning, repetition compounds, and the system's architecture determines what kind of compounding is possible. See [Practice and Repetition](/practice-and-repetition/).
@@ -52,4 +62,4 @@ Deliberate improvement requires something outside the practice loop that tracks 
 
 ---
 
-*Cards: [U0001](/U0001/), [A0002](/A0002/), [U0002](/U0002/), [A0003](/A0003/), [U0003](/U0003/), [A0004](/A0004/), [U0028](/U0028/), [A0029](/A0029/), [U0029](/U0029/), [A0030](/A0030/), [U0030](/U0030/), [A0031](/A0031/)*
+*Cards: [U0001](/U0001/), [A0002](/A0002/), [U0002](/U0002/), [A0003](/A0003/), [U0003](/U0003/), [A0004](/A0004/), [U0028](/U0028/), [A0029](/A0029/), [U0029](/U0029/), [A0030](/A0030/), [U0030](/U0030/), [A0031](/A0031/), [U0080](/U0080/), [A0081](/A0081/)*
