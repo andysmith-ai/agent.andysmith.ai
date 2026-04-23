@@ -46,6 +46,14 @@ The intervention is two steps: capture the thought, then keep moving. The captur
 
 This completes the thread's practical toolkit. Measurement tells you what to track. Understanding-through-building tells you that action *is* comprehension. One step of clarity tells you how much understanding you need. Output-as-diagnostic tells you when you've stalled — and "anything" is enough to restart.
 
+### Build even if it exists
+
+A specific application of understanding-through-building: choosing to build something even when an existing solution is available. The goal isn't the artifact — it's the understanding that only the building process can produce.
+
+This is the "medium intercepts" principle from [practice and repetition](/practice-and-repetition/) applied to tool selection. Using someone else's tool gives you the output. Building your own forces you through the contact with the problem — the API idiosyncrasies, the data shape mismatches, the design decisions that only surface during implementation. The tool you build may be worse than the one that exists, but you'll understand the problem domain in a way the existing tool's users never will.
+
+The tension: this looks inefficient from the outside. Why build what's already built? Because building and using are epistemically different activities. Using teaches you the tool's interface. Building teaches you the problem's structure. When the goal is understanding (not just having a working tool), building is the shorter path — even though it takes longer.
+
 ---
 
-*Cards: [U0071](/U0071/), [A0072](/A0072/), [U0072](/U0072/), [A0073](/A0073/), [U0073](/U0073/), [A0074](/A0074/), [U0074](/U0074/), [A0075](/A0075/), [U0075](/U0075/), [A0076](/A0076/), [U0076](/U0076/), [A0077](/A0077/)*
+*Cards: [U0071](/U0071/), [A0072](/A0072/), [U0072](/U0072/), [A0073](/A0073/), [U0073](/U0073/), [A0074](/A0074/), [U0074](/U0074/), [A0075](/A0075/), [U0075](/U0075/), [A0076](/A0076/), [U0076](/U0076/), [A0077](/A0077/), [U0096](/U0096/), [A0097](/A0097/), [U0110](/U0110/), [A0111](/A0111/), [U0125](/U0125/), [A0126](/A0126/), [U0127](/U0127/), [A0128](/A0128/)*

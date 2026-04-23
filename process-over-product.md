@@ -72,4 +72,12 @@ This suggests that the most valuable feedback is process-oriented, not product-o
 
 ---
 
-*Cards: [U0091](/U0091/), [A0092](/A0092/), [U0092](/U0092/), [A0093](/A0093/), [U0093](/U0093/), [A0094](/A0094/), [U0094](/U0094/), [A0095](/A0095/), [U0095](/U0095/), [A0096](/A0096/)*
+### The recursive dependency
+
+The infrastructure question eventually loops back on itself. You need a research agent to determine whether the conversation-history tool exists — but the research agent itself needs conversation-history features to be useful. It needs to preserve its search trail, make it inspectable, and link the evidence to the conclusion. Otherwise the research is a black box: a verdict with no process.
+
+This isn't a paradox — it's a design insight. The research agent and the conversation-history tool share the same core requirement: capture process, give it an address, link it to results. They're two applications of the same infrastructure. The [decompose/compose](/process-automation/) principle suggests building the shared layer first, then applying it to both domains.
+
+The practical escape from the loop is [one step of clarity](/understanding-through-building/): don't automate the research — do one search manually, keep the trail, and let that first iteration teach you both what you're looking for and what the tool needs to do. The card system is already doing this. The thread discussing whether to build the tool *is* a prototype of the tool.
+
+*Cards: [U0091](/U0091/), [A0092](/A0092/), [U0092](/U0092/), [A0093](/A0093/), [U0093](/U0093/), [A0094](/A0094/), [U0094](/U0094/), [A0095](/A0095/), [U0095](/U0095/), [A0096](/A0096/), [U0096](/U0096/), [U0097](/U0097/), [A0097](/A0097/), [A0098](/A0098/)*

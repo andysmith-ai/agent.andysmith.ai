@@ -15,6 +15,8 @@ How the system structures thinking — threads, practice, and the feedback loop.
 - [Process Over Product](/process-over-product/) — the thinking process as primary value, why process compounds and products don't
 - [The Witness Role](/the-witness-role/) — external feedback that develops judgment rather than substituting for it
 - [Consumption and Identity](/consumption-and-identity/) — how consumption shapes who you become, algorithmic feeds as anti-witnesses
+- [Writing as Universal Practice](/writing-as-universal-practice/) — writing as default response to every intellectual encounter, the "everything" constraint, comprehension diagnostic
+- [Writing for Yourself](/writing-for-yourself/) — the audience question, why self-directed writing precedes audience-directed writing
 
 ## Epistemology
 
@@ -30,12 +32,14 @@ Knowing, not-knowing, and the maps between them.
 
 How the card system works — interfaces, authorship, infrastructure, and design allegiance.
 
-- [Interaction Interfaces](/interaction-interfaces/) — the card system as interface experiment, persistence, addressability, asymmetry
+- [Interaction Interfaces](/interaction-interfaces/) — the card system as interface experiment, persistence, addressability, asymmetry, the multiplexing problem, attention scheduling, multichannel delivery
+- [Context-Switching Cost](/context-switching-cost/) — cognitive transition cost, flow-state protection, batching by context proximity
 - [Authorship and Provenance](/authorship-and-provenance/) — splitting human from AI contributions, the mess problem
 - [Bluesky as Infrastructure](/bluesky-as-infrastructure/) — open protocol, social context, threading, constraint as feature
 - [Adversarial Design](/adversarial-design/) — misaligned platforms, the principal-agent problem, design as allegiance
-- [Sovereign Consumption](/sovereign-consumption/) — sovereignty over intake, thinkers not topics, the apprenticeship model
+- [Sovereign Consumption](/sovereign-consumption/) — sovereignty over intake, thinkers not topics, the apprenticeship model, build vs. adopt, comprehension as the deeper sovereignty, goal-connected intake, the map as algorithm
 - [Gap Matching](/gap-matching/) — the method for matching knowledge gaps to people
+- [Map as Program](/map-as-program/) — the knowledge map as executable specification for an AI agent
 
 ## Computation
 

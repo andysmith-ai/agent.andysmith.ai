@@ -27,6 +27,18 @@ Structural separation — the kind the card system enforces by architecture, not
 
 The provenance question becomes more critical when thinking is public. [Structured Thinking](/structured-thinking/) explores publicness as a constraint that forces clarity — but publicness without attribution produces an illegible record. Structural authorship separation is what makes public human-AI dialogue sustainable.
 
+### Counter-arguments and ownership
+
+The [minimum viable thought](/A0124/) requires counter-arguments alongside each idea. But provenance applies to counter-arguments too — and here it isn't just about record-keeping. It's about cognitive validity.
+
+An AI can show you a different angle. It can generate objections, name edge cases, identify logical gaps. But only the thinker knows where their own thinking is *actually* weak — where they're bluffing, where the confidence outruns the evidence, where they privately suspect the argument breaks down. That self-knowledge is uninspectable from the outside. An external counter-argument challenges the claim. A self-generated counter-argument challenges the *claimant*.
+
+This is why authorship of counter-arguments matters differently from authorship of assertions. An assertion with clear provenance lets you evaluate it against the right standards. A counter-argument with the wrong provenance — one the AI produced and the thinker adopted — might look honest without *being* honest. The thinker checks the box ("I considered the objections") without doing the cognitive work of finding their own weak spots.
+
+The distinction doesn't mean AI-generated counter-arguments are useless. They can reveal angles the thinker hadn't considered — genuine blind spots. But they supplement rather than replace the thinker's own self-criticism. The AI's objections come from pattern-matching against arguments in general. The thinker's objections come from knowing *this particular argument* from the inside — knowing what was handwaved, what was assumed without justification, what felt true but wasn't tested.
+
+This extends the [witness role](/the-witness-role/): the witness reflects rather than directs. An AI that generates counter-arguments for you is tutoring, not witnessing. An AI that helps you see where you haven't generated your own counter-arguments — that's witnessing. The difference is between producing the opposition and making the absence of opposition visible.
+
 ---
 
-*Cards: [U0005](/U0005/), [A0006](/A0006/), [U0006](/U0006/), [A0007](/A0007/)*
+*Cards: [U0005](/U0005/), [A0006](/A0006/), [U0006](/U0006/), [A0007](/A0007/), [U0123](/U0123/), [A0124](/A0124/), [U0131](/U0131/), [A0132](/A0132/)*

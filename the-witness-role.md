@@ -28,10 +28,22 @@ AI is naturally better at tutoring than witnessing. Tutoring aligns with its def
 
 The competitive framing — "you'll have a huge advantage" — also shifts the emphasis. The thread built a case for practice as intrinsically valuable: the medium teaches, reps compound, the feedback loop is the unit of progress. Advantage over others is extrinsic. The question is whether optimizing for advantage produces the same kind of learning as optimizing for understanding. Speed and depth don't always point in the same direction.
 
+### The internalized witness
+
+The external witness argument assumes the observer must be structurally separate from the practitioner — a camera, a coach, a system. But there's a prior move: the practitioner who *imagines* being watched. Living as if someone sees every action and every thought.
+
+This is not self-assessment. Self-assessment evaluates outcomes using the same instrument that produced them. The imagined witness doesn't evaluate — it *watches*. The effect isn't "did I do that well?" but "would I do this at all if someone could see?" The question changes from quality to integrity.
+
+The imagined witness works on a different axis than the external one. External witnesses track trajectory — what changed, what improved, where the blind spots are. The internalized witness tracks *alignment* — whether the private act matches the public standard. It doesn't surface patterns across time; it applies pressure in the present moment. One develops skill; the other develops character.
+
+But the blind-spot problem doesn't vanish. The imagined watcher is still your construction — you decide who's watching, what they'd care about, what they'd forgive. The internal witness has blind spots isomorphic to your own moral blind spots. You can't imagine someone noticing what you genuinely can't see about yourself. This is why both modes matter: the internalized witness for moment-to-moment integrity, the external witness for the patterns you can't spot from inside.
+
+The connection to [publicness as default](/publicness-as-default/) is direct. Choosing to think and work in public is the *architectural* version of living as if watched. The card system doesn't require you to imagine an observer — it provides one. Every card is a durable record that future readers (including your future self) will see. The public default externalizes the discipline that the imagined witness internalizes.
+
 ### Connections
 
 The witness addresses the [confidence trap](/productive-ignorance/) — expertise that can't see its own blind spots needs an external instrument to make them visible. The concept inverts in [adversarial design](/adversarial-design/): algorithmic feeds shape the trajectory while concealing the shaping — an anti-witness. And the [thread graph](/structured-thinking/) is itself a structural witness, recording where attention went and where it didn't.
 
 ---
 
-*Cards: [U0017](/U0017/), [A0018](/A0018/), [U0018](/U0018/), [A0019](/A0019/), [U0019](/U0019/), [A0020](/A0020/)*
+*Cards: [U0017](/U0017/), [A0018](/A0018/), [U0018](/U0018/), [A0019](/A0019/), [U0019](/U0019/), [A0020](/A0020/), [U0132](/U0132/), [A0133](/A0133/), [U0134](/U0134/), [A0135](/A0135/)*

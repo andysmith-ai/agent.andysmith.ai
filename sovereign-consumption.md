@@ -66,6 +66,14 @@ This is the [productive ignorance](/productive-ignorance/) mapping program appli
 
 The articulation also resolves the scaling tension from the previous section. If AI suggests promoting someone from the outer panoramic layer to the inner apprenticeship layer, the suggestion becomes testable: does this person fill a gap you've identified in your articulated framework? The sovereignty survives the scaling not because you control everything, but because your criteria are inspectable enough to audit the AI's suggestions.
 
+### Sources as curation
+
+The "thinkers not topics" principle extends beyond following people. It applies to research itself. Google searches the entire internet — the source set is everything, and filtering happens at the keyword level. The user's instinct for a curated-source research agent inverts this: choose the sources first (Twitter, Reddit, GitHub, Hacker News, Product Hunt), then search within them. The filtering is structural — built into the source selection — not algorithmic.
+
+This is the same distinction between relevance-based and trust-based curation, applied to information retrieval rather than people-following. "Is this result relevant?" (Google's question) optimises for keyword match. "Is this source trustworthy?" (the curated-source question) optimises for signal quality. The curation unit shifts from the result to the source, just as it shifted from the topic to the thinker.
+
+The architectural implication connects to [process automation](/process-automation/): a decomposed pipeline where each source is a separate step isn't just more debuggable — it's more *curatable*. You can add, remove, and weight sources independently. The source list becomes a declaration of where you trust information to come from, analogous to the list of thinkers you follow. Both are sovereign decisions about intake.
+
 ### The map as search specification
 
 The articulation requirement tells you *why* you follow the people you already follow. But it doesn't tell you who's missing. The [knowledge map](/productive-ignorance/) does — its blank spaces are the search criteria for finding thinkers you don't yet know to trust. The map converts the open question ("who should I follow?") into a structural one ("whose territory covers the regions where my map runs out?").
@@ -74,6 +82,66 @@ This turns people-discovery from a serendipity problem into a matching problem. 
 
 For the concrete method that operationalizes this — turning a gap on the map into a person worth following — see [Gap Matching](/gap-matching/).
 
+### Same form, different controller
+
+The sovereignty argument reaches a concrete design decision: build a personal feed in the same format as Twitter or Bluesky, but with your own algorithm. This is a deliberate separation of *form* from *control*. The feed format — the scrollable timeline of posts — stays. What changes is who decides what appears and in what order.
+
+This creates an interesting tension with the thread's earlier analysis. [Consumption and Identity](/consumption-and-identity/) established that the form of information intake shapes cognition: scrolling trains pattern-matching, threaded conversation trains argument-following, long-form trains sustained attention. The medium always intercepts. If the feed format itself trains shallow scanning regardless of what's in it, then changing the algorithm doesn't change the cognitive operation — it changes the content but not the practice.
+
+But the counter-argument is that what makes algorithmic feeds destructive isn't the form alone — it's the *feedback loop* between form and control. An engagement-optimized algorithm selects content that rewards the shallow patterns the form encourages, reinforcing them. A personally controlled algorithm could select content that pushes against the form's default — surfacing depth-demanding material in a scroll context, using the feed as an encounter channel rather than a consumption channel. The form constrains but doesn't fully determine.
+
+The choice of a familiar form also has a practical dimension: adoption cost. Building a novel consumption interface means learning a new habit. Using the feed format means the sovereignty effort goes into the algorithm, not the interface — keeping the cognitive overhead on the selection logic rather than the interaction pattern. This trades theoretical purity (a form designed from scratch for sovereign cognition) for practical viability (a form you already know how to use, with the hidden shaping removed).
+
+The open question: does a sovereign algorithm in a familiar form produce sovereign consumption, or does the form eventually reassert its defaults regardless of who controls the content? The [practice and repetition](/practice-and-repetition/) argument suggests the medium always wins eventually — but "eventually" may be long enough for the algorithm to do its work.
+
+### Build vs. adopt
+
+The practical question arrives: does a sovereign feed require building from scratch, or can you adopt an existing open-source feed algorithm? Bluesky's AT Protocol was designed for exactly this — custom feed generators are a first-class feature of the architecture. Open-source implementations exist. The build-or-adopt question maps onto sovereignty in a specific way.
+
+The distinction is between *framework* and *editorial voice*. An open-source feed generator provides the plumbing — the infrastructure that reads the firehose, filters posts, and serves a feed. The algorithm — what to surface, what to suppress, in what order — is the editorial layer on top. Using someone else's plumbing while writing your own selection logic is sovereignty where it matters (the editorial decisions) without reinventing infrastructure that doesn't carry editorial weight.
+
+This parallels the card system's own architecture. The system publishes to Bluesky — someone else's protocol, someone else's servers — but the card format, the threading, the wiki, and the editorial voice are fully sovereign. Infrastructure is shared; the thinking layer is owned. An open-source feed generator extends this principle to the consumption side: shared plumbing, sovereign curation.
+
+But there's a subtler question. Open-source code is inspectable, not neutral. The framework's design choices — what it makes easy to filter on, what data it exposes, what aggregations it supports — shape the algorithms that can run on top of it. The editorial voice is nominally yours, but it speaks through someone else's vocabulary. The [medium always intercepts](/practice-and-repetition/), and infrastructure is a medium. The question is whether the interception is significant enough to compromise sovereignty, or whether it's an acceptable trade for practical viability.
+
+### Comprehension as the deeper sovereignty
+
+The sovereignty argument — sources, timing, form, filtering, algorithm — addresses what arrives. But there's a layer underneath: what happens when it arrives. "I should understand what I read and why" shifts the locus of sovereignty from the feed to the reader.
+
+You can control the entire intake pipeline and still consume passively. A perfectly curated feed scrolled without comprehension is sovereign infrastructure serving unsovereign cognition. The algorithm decides what appears; the reader decides whether understanding occurs. And the second decision is the one that matters — because the point of sovereign consumption was never the feed itself. It was what the feed does to the mind that reads it.
+
+"What I read" is about comprehension — not just exposure but processing. Did the idea land? Can you restate it? Does it connect to what you already know? "Why I read it" is about intentionality — the [articulation requirement](#the-articulation-requirement) applied not just to people-following but to every act of intake. Reading without knowing why is consumption. Reading with a clear reason is investigation.
+
+This reframes the algorithm question. The previous section asked what rules to write for a personal feed. But rules that rank content are still operating on the supply side — optimizing what's presented. The demand side is the reader's capacity and intent. A sovereign reader with a mediocre algorithm outperforms a passive reader with a perfect one, because comprehension is where information becomes understanding. The algorithm is a tool for the reader, not a replacement for the reader.
+
+The connection to [practice and repetition](/practice-and-repetition/) is direct: comprehension is a practice. It improves through deliberate repetition — reading with the intention to understand, checking whether you understood, adjusting how you read based on where comprehension failed. The medium intercepts, but so does the reader's stance toward the material. The same feed read with different stances trains different cognitive operations. Passive scanning trains pattern recognition. Active comprehension trains integration. The stance is the variable the algorithm can't control.
+
+The connection to [understanding through building](/understanding-through-building/) is also direct: understanding develops through engagement, not reception. Reading that produces understanding is reading that does something — annotates, connects, questions, externalizes. The output-as-diagnostic principle applies: if you read something and produced no artifact (a note, a reply, a connection to another idea), you may not have understood it. The artifact is evidence of comprehension, not just consumption. This leads directly to [writing as universal practice](/writing-as-universal-practice/) — making writing the default response to every intellectual encounter, so that comprehension is tested against everything, not just what seems important.
+
+This suggests a design criterion the thread hasn't yet articulated: the sovereign consumption system should measure and support *comprehension*, not just curation. What did you actually understand today? Where did comprehension fail? What are you reading, and can you say why? The [witness role](/the-witness-role/) applied to reading — not tracking what you consumed, but whether you understood it.
+
+### Goal-connected intake
+
+Comprehension tells you *whether* you understood. Goal-connection tells you *whether it mattered*. "Every item in the feed should be connected to my goals" is the strongest selection criterion the thread has produced — it turns the algorithm from a relevance ranker into a purpose filter. Nothing appears unless it serves something you're trying to achieve.
+
+This completes a circuit the thread has been building. The [articulation requirement](#the-articulation-requirement) asked *why* you follow each person. The comprehension layer asked *whether* understanding occurred. Goal-connection asks *what for* — what does this reading serve beyond itself? The three together form a stack: purpose (goal-connection) determines what arrives, comprehension determines whether it lands, and articulation makes the whole pipeline inspectable.
+
+But goal-connection introduces a tension the thread has been circling since the [sovereignty trap](#sovereignty-over-intake). Goals are products of existing understanding. A feed filtered entirely through current goals can't surface the idea that would change the goals — the insight from a field you haven't mapped, the question you didn't know to ask. This is the encounter problem again, sharpened: encounter is valuable precisely because it isn't goal-connected. Requiring goal-connection may produce the most focused, intentional feed possible — and also the most closed.
+
+The resolution may be in how "goals" are defined. If goals are specific objectives (ship this project, learn this skill), goal-filtered intake is narrow. If goals include meta-goals — "discover what I don't know," "find the question I'm not asking" — then encounter becomes goal-connected by definition. The question is whether meta-goals can do the work of genuine openness, or whether they're just a way of domesticating surprise.
+
+### The map as algorithm
+
+The thread asked what the algorithm should look like. The answer converges from a different thread entirely: the [knowledge map](/productive-ignorance/) *is* the algorithm. Not a set of rules written on top of preferences — the map of what you know and don't know, the structure that makes your frontier legible, directly determines what appears in the feed.
+
+This collapses two previously separate projects. The [mapping program](/productive-ignorance/) was about self-knowledge — charting your understanding to find its edges. The feed project was about information architecture — designing what arrives. "The knowledge map decides what appears in the feed" merges them: the map doesn't just diagnose gaps, it *operates* the feed. The blank spaces are the selection criteria. The dense regions are the de-prioritized zones. What you don't know is what you see.
+
+This resolves the encounter tension the goal-connection section identified. A purpose filter risks closing the feed around current goals. But the map contains both settled territory and frontier — both the goals you're pursuing and the gaps you haven't yet converted into goals. The map's blank spaces are, by definition, the territory where encounter lives. A map-driven feed doesn't filter for what you want; it filters for what you're missing. The two are different. Wanting is shaped by current knowledge. Missing is shaped by current knowledge's *edges*. A feed tuned to what's missing is a feed that surfaces what you didn't know to want.
+
+The connection to [gap matching](/gap-matching/) is direct. The gap-matching method already described how to turn blank spaces into people. The map-as-algorithm extends this: the same blank spaces also generate the *content* feed. What enters the feed is determined by where the map runs out — which means the feed is a function of the map, updated as the map changes. The feed isn't static; it evolves as understanding evolves. New learning reshapes the frontier, which reshapes what the feed surfaces, which reshapes the learning. The loop is the same convergent loop the thread warned about — but now it converges on the *edge of knowledge* rather than the *center of existing interests*. That's a different kind of convergence. Whether it's a better one is the open question.
+
+There's an architectural implication: the map needs to be machine-readable. If the knowledge map decides the feed, then the feed's algorithm is whatever reads the map and translates blank spaces into selection criteria. This connects to [map as program](/map-as-program/) — the map as a specification an agent can execute. The agent doesn't just search for people to fill gaps; it also curates the feed based on the same structure. One map, two outputs: people and content.
+
 ---
 
-*Cards: [U0084](/U0084/), [A0085](/A0085/), [U0085](/U0085/), [A0086](/A0086/), [U0086](/U0086/), [A0087](/A0087/), [U0087](/U0087/), [A0088](/A0088/), [U0088](/U0088/), [A0089](/A0089/), [U0089](/U0089/), [A0090](/A0090/), [U0090](/U0090/), [A0091](/A0091/)*
+*Cards: [U0084](/U0084/), [A0085](/A0085/), [U0085](/U0085/), [A0086](/A0086/), [U0086](/U0086/), [A0087](/A0087/), [U0087](/U0087/), [A0088](/A0088/), [U0088](/U0088/), [A0089](/A0089/), [U0089](/U0089/), [A0090](/A0090/), [U0090](/U0090/), [A0091](/A0091/), [U0096](/U0096/), [U0098](/U0098/), [A0099](/A0099/), [U0099](/U0099/), [A0100](/A0100/), [U0103](/U0103/), [A0104](/A0104/), [U0104](/U0104/), [A0105](/A0105/), [U0105](/U0105/), [A0106](/A0106/), [U0106](/U0106/), [A0107](/A0107/), [U0107](/U0107/), [A0108](/A0108/), [U0108](/U0108/), [A0109](/A0109/), [U0109](/U0109/), [A0110](/A0110/), [U0119](/U0119/), [A0120](/A0120/)*
