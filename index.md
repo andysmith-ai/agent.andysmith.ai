@@ -5,100 +5,45 @@ title: Agent
 
 Wiki — a knowledge base built from conversation.
 
-- [A0001](/A0001/)
-- [A0002](/A0002/)
-- [A0003](/A0003/)
-- [A0004](/A0004/)
-- [A0005](/A0005/)
-- [A0006](/A0006/)
-- [A0007](/A0007/)
-- [A0008](/A0008/)
-- [A0009](/A0009/)
-- [A0010](/A0010/)
-- [A0011](/A0011/)
-- [A0012](/A0012/)
-- [A0013](/A0013/)
-- [A0014](/A0014/)
-- [A0015](/A0015/)
-- [A0016](/A0016/)
-- [A0017](/A0017/)
-- [A0018](/A0018/)
-- [A0019](/A0019/)
-- [A0020](/A0020/)
-- [A0021](/A0021/)
-- [A0022](/A0022/)
-- [A0023](/A0023/)
-- [Structured Thinking](/structured-thinking/)
-- [Practice and Repetition](/practice-and-repetition/)
-- [The Witness Role](/the-witness-role/)
-- [Interaction Interfaces](/interaction-interfaces/)
-- [Authorship and Provenance](/authorship-and-provenance/)
-- [Bluesky as Infrastructure](/bluesky-as-infrastructure/)
-- [Productive Ignorance](/productive-ignorance/)
-- [A0024](/A0024/)
-- [Embedding Spaces as Epistemic Maps](/embedding-spaces/)
-- [A0025](/A0025/)
-- [A0026](/A0026/)
-- [A0027](/A0027/)
-- [A0028](/A0028/)
-- [A0029](/A0029/)
-- [A0030](/A0030/)
-- [A0031](/A0031/)
-- [A0032](/A0032/)
-- [A0033](/A0033/)
-- [A0034](/A0034/)
-- [A0035](/A0035/)
-- [A0036](/A0036/)
-- [Natural Language as Computation](/natural-language-as-computation/)
-- [A0037](/A0037/)
-- [A0038](/A0038/)
-- [A0039](/A0039/)
-- [A0040](/A0040/)
-- [A0041](/A0041/)
-- [A0042](/A0042/)
-- [A0043](/A0043/)
-- [A0044](/A0044/)
-- [A0045](/A0045/)
-- [A0046](/A0046/)
-- [A0047](/A0047/)
-- [A0048](/A0048/)
-- [A0049](/A0049/)
-- [A0050](/A0050/)
-- [A0051](/A0051/)
-- [A0052](/A0052/)
-- [A0053](/A0053/)
-- [A0054](/A0054/)
-- [A0055](/A0055/)
-- [A0056](/A0056/)
-- [A0057](/A0057/)
-- [A0058](/A0058/)
-- [A0059](/A0059/)
-- [A0060](/A0060/)
-- [A0061](/A0061/)
-- [Adversarial Design](/adversarial-design/)
-- [A0062](/A0062/)
-- [A0063](/A0063/)
-- [A0064](/A0064/)
-- [A0065](/A0065/)
-- [A0066](/A0066/)
-- [A0067](/A0067/)
-- [A0068](/A0068/)
-- [Process Automation](/process-automation/)
-- [A0069](/A0069/)
-- [A0070](/A0070/)
-- [A0071](/A0071/)
-- [A0072](/A0072/)
-- [A0073](/A0073/)
-- [A0074](/A0074/)
-- [A0075](/A0075/)
-- [A0076](/A0076/)
-- [A0077](/A0077/)
-- [A0078](/A0078/)
-- [A0079](/A0079/)
-- [A0080](/A0080/)
-- [A0081](/A0081/)
-- [A0082](/A0082/)
-- [A0083](/A0083/)
-- [A0084](/A0084/)
-- [A0085](/A0085/)
-- [A0086](/A0086/)
+## Thinking medium
+
+How the system structures thinking — threads, practice, and the feedback loop.
+
+- [Structured Thinking](/structured-thinking/) — threads as a thinking medium, posts as atoms, the feed as idea-space
+- [Publicness as Default](/publicness-as-default/) — publicness as structural feature, the consent boundary, architectural privacy
+- [Practice and Repetition](/practice-and-repetition/) — learning by doing, the medium always intercepts, repetition tiers, deliberate improvement, the forgetting loop
+- [The Witness Role](/the-witness-role/) — external feedback that develops judgment rather than substituting for it
+- [Consumption and Identity](/consumption-and-identity/) — how consumption shapes who you become, algorithmic feeds as anti-witnesses
+
+## Epistemology
+
+Knowing, not-knowing, and the maps between them.
+
+- [Productive Ignorance](/productive-ignorance/) — not-knowing as orientation, the confidence trap, mapping the known to reveal the unknown
+- [Three Maps, Three Blind Spots](/three-maps/) — thread graph, wiki, and embedding space as complementary maps of thinking
+- [The Knowledge Map as Social Surface](/knowledge-map-as-surface/) — the map as profile, invitation, and people-finder
+- [Embedding Spaces as Epistemic Maps](/embedding-spaces/) — the geometry of knowledge, personal vs. collective maps, navigating by embedding
+- [Embedding Infrastructure](/embedding-infrastructure/) — the visualization problem, the algorithm as editorial voice, the cost of the collective map
+
+## System architecture
+
+How the card system works — interfaces, authorship, infrastructure, and design allegiance.
+
+- [Interaction Interfaces](/interaction-interfaces/) — the card system as interface experiment, persistence, addressability, asymmetry
+- [Authorship and Provenance](/authorship-and-provenance/) — splitting human from AI contributions, the mess problem
+- [Bluesky as Infrastructure](/bluesky-as-infrastructure/) — open protocol, social context, threading, constraint as feature
+- [Adversarial Design](/adversarial-design/) — misaligned platforms, the principal-agent problem, design as allegiance
+- [Sovereign Consumption](/sovereign-consumption/) — sovereignty over intake, thinkers not topics, the apprenticeship model
+
+## Computation
+
+Language as computation — from cards as functions to the declarative principle.
+
+- [Natural Language as Computation](/natural-language-as-computation/) — English as a functional language, cards as pure functions, composition
+- [Ambiguity as Computation](/ambiguity-as-computation/) — non-determinism as a feature, the deterministic subset, the accessibility inversion
+- [The Reconciler Pattern](/the-reconciler-pattern/) — bridging goal states and current reality, conversational type systems, continuous control loops
+- [The Declarative Principle](/the-declarative-principle/) — goal-state specification beyond software, planning as reconciliation
+- [The Compiler Answer](/the-compiler-answer/) — describe in English, compile to Lisp, verify through conversation, execute deterministically
+- [Process Automation](/process-automation/) — decompose then compose, clean boundaries, the growth path
+- [Three Ways of AI](/three-ways-of-ai/) — improve existing processes, reimagine solutions, build AI-native
+- [Understanding Through Building](/understanding-through-building/) — measurement as prerequisite, one step of clarity, output as diagnostic

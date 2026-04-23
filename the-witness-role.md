@@ -28,6 +28,10 @@ AI is naturally better at tutoring than witnessing. Tutoring aligns with its def
 
 The competitive framing — "you'll have a huge advantage" — also shifts the emphasis. The thread built a case for practice as intrinsically valuable: the medium teaches, reps compound, the feedback loop is the unit of progress. Advantage over others is extrinsic. The question is whether optimizing for advantage produces the same kind of learning as optimizing for understanding. Speed and depth don't always point in the same direction.
 
+### Connections
+
+The witness addresses the [confidence trap](/productive-ignorance/) — expertise that can't see its own blind spots needs an external instrument to make them visible. The concept inverts in [adversarial design](/adversarial-design/): algorithmic feeds shape the trajectory while concealing the shaping — an anti-witness. And the [thread graph](/structured-thinking/) is itself a structural witness, recording where attention went and where it didn't.
+
 ---
 
 *Cards: [U0017](/U0017/), [A0018](/A0018/), [U0018](/U0018/), [A0019](/A0019/), [U0019](/U0019/), [A0020](/A0020/)*

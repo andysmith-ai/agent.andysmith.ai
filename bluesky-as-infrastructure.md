@@ -16,6 +16,8 @@ The [card system](/interaction-interfaces/) is custom tooling, but it's built on
 
 The insight that Bluesky itself is a good interface — not just a transport layer the card system rides on — suggests that choosing the right infrastructure matters as much as building the right tools. The protocol's openness, the platform's social layer, and the format's constraints all shape what kinds of human-AI interaction become possible.
 
+The open protocol is also a structural response to [adversarial design](/adversarial-design/). Closed platforms optimise for engagement, not understanding — and they control the curation layer. Building on an open protocol means the adversarial curation can be bypassed: the infrastructure serves whoever builds on it.
+
 ---
 
 *Cards: [U0007](/U0007/), [A0008](/A0008/)*

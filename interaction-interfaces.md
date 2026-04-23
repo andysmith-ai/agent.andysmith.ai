@@ -35,6 +35,10 @@ Structural separation of human and AI contributions isn't just a design preferen
 
 The card system is built on Bluesky, and the platform's structural properties — open protocol, social context, native threading, character constraints — shape what kinds of interaction become possible. See [Bluesky as Infrastructure](/bluesky-as-infrastructure/).
 
+### Design allegiance
+
+Every tool encodes its creator's priorities. The card system is designed by the thinker, for the thinker — its design allegiance is transparent. Most platforms serve someone else's goals: engagement, retention, ad revenue. The shape of the interface isn't neutral. See [Adversarial Design](/adversarial-design/).
+
 ### Public and private modes
 
 The card system was designed with publicness as a structural feature, not just a setting. But the [consent boundary](/structured-thinking/) — the fact that some thinking involves other people's lives and can't be published — creates a demand for the same system to operate in two modes: public and private.
@@ -45,7 +49,7 @@ The architectural answer: **same format, same structure, different destination**
 
 This follows the same principle as [authorship separation](/authorship-and-provenance/): privacy is architectural, not annotational. You can't accidentally publish a private card because the publish step is tied to the directory, not to a metadata flag that could be forgotten or misconfigured. The system already embodies this — `me/` has always been local-only. The insight is that what looked like a limitation (user cards staying private) was already the architecture for private thinking.
 
-The remaining design questions — whether private and public cards can thread together, how the wiki synthesizes from both without leaking, what the bridge between private experience and public pattern looks like — are now questions about the bridge operation, not the storage architecture. The bridge between private and public becomes a first-class operation — a [lossy conversion](/natural-language-as-computation/#conversion-as-the-computational-act) where private experience is compressed into public pattern.
+The remaining design questions — whether private and public cards can thread together, how the wiki synthesizes from both without leaking, what the bridge between private experience and public pattern looks like — are now questions about the bridge operation, not the storage architecture. The bridge between private and public becomes a first-class operation — a [lossy conversion](/the-compiler-answer/) where private experience is compressed into public pattern.
 
 ### The one-sentence collapse
 

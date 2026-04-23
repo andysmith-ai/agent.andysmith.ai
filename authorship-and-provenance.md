@@ -25,6 +25,8 @@ Most AI-integrated knowledge tools don't account for this. Chat transcripts inte
 
 Structural separation — the kind the card system enforces by architecture, not annotation — prevents this degradation by making it impossible to accidentally blur the boundary. You can't accidentally file an A-card in the U directory. The separation is a maintenance strategy, not just a design preference.
 
+The provenance question becomes more critical when thinking is public. [Structured Thinking](/structured-thinking/) explores publicness as a constraint that forces clarity — but publicness without attribution produces an illegible record. Structural authorship separation is what makes public human-AI dialogue sustainable.
+
 ---
 
 *Cards: [U0005](/U0005/), [A0006](/A0006/), [U0006](/U0006/), [A0007](/A0007/)*

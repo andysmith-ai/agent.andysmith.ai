@@ -50,39 +50,9 @@ Perfectionism masquerades as high standards but functions as a refusal to enter 
 
 This connects learning by doing to iteration. Starting is necessary because the medium intercepts. But *continuing to start simply* — treating each new version as a draft that reveals the next problem — is what turns starting into sustained progress. The feedback loop is the unit of progress, not the individual rep.
 
-### Consumption as identity
+### Consumption and identity
 
-The medium intercepts production — but it also intercepts consumption. The form information arrives in determines what kind of thinking it can provoke. Scrolling trains pattern-matching; threaded conversation trains argument-following; writing replies trains synthesis. The same content, delivered through different media, produces different cognitive operations.
-
-This goes beyond skills. Sustained consumption in a particular form doesn't just make you better at consuming that form — it makes you *someone who defaults to that form*. The scroller becomes a scroller; the reader becomes a reader. Consumption shapes identity, not just capability. The choice of medium isn't a productivity decision — it's a self-determination decision about what kind of thinker you become.
-
-The identity dimension makes the forgetting loop harder to escape. You can evaluate skills from outside, but you can't easily evaluate your identity from inside — the evaluator is the identity. The [witness role](/the-witness-role/) becomes relevant here for reflecting not just what you're doing, but what you're becoming.
-
-### Agency over consumption
-
-If consumption shapes identity, taking control of consumption is an act of self-determination. But the controller is already a product of past consumption — the "you" that decides to change has been shaped by the habits you're trying to change. This makes control less like an executive decision and more like redirecting a moving ship.
-
-The effective approach is environmental rather than volitional: change the structural conditions so different consumption happens without requiring constant willpower. Unsubscribe rather than resist. Restructure the feed rather than fight it. This is the forgetting loop insight applied to consumption — build the principle into the architecture so the right thing becomes the easy thing.
-
-The [witness role](/the-witness-role/) is crucial here because consumption patterns are largely invisible from inside. A witness that tracks the *form* of consumption — time in shallow scanning vs. deep reading, reactive responses vs. reflective ones — makes the trajectory legible so that redirects can be informed rather than blind. Not a content recommender (which optimises within existing patterns) but a form tracker that reveals the cognitive shape of your consumption.
-
-Control over consumption isn't a one-time decision but a sustained practice — requiring the same elements as any practice: repetition, memory, a witness, and architecture that compounds.
-
-### Algorithmic feeds as anti-witnesses
-
-Algorithmic feeds are a specific and acute version of the environmental problem. They don't just passively enable bad consumption habits — they actively engineer them. The algorithm learns your engagement patterns and feeds you more of what you already engage with, creating a convergent feedback loop that reinforces existing tendencies while making the reinforcement invisible.
-
-This is what makes them dangerous rather than merely suboptimal. A curated reading list is also someone else's choices — but the curation is legible. An algorithmic feed presents its choices as "your feed," hiding the editorial voice behind a mirror. It's the [witness role](/the-witness-role/) inverted: instead of making the trajectory visible, it shapes the trajectory while concealing the shaping. An anti-witness.
-
-The response follows the environmental design principle: change the structural conditions. Chronological feeds, custom feed generators, threaded conversation, deliberate feed curation — these bypass the algorithm's editorial voice. On platforms built on open protocols (like [Bluesky](/bluesky-as-infrastructure/)), the infrastructure supports the escape even when the default product doesn't enforce it. The protocol and the algorithm are different layers; the danger lives in the curation layer, not the infrastructure. See also [Adversarial Design](/adversarial-design/) for the deeper structural argument: the misalignment isn't accidental — it's the business model.
-
-### Integration vs. separation
-
-If different consumption modes serve different cognitive functions, the natural instinct is to maintain separate tools for each — a book for depth, a feed for encounter, a journal for review, a thread for dialogue. But separation creates its own cost: the mode-switching tax. Every transition between tools is a context switch that interrupts the cognitive operation it was supposed to support. If the medium always intercepts, and the medium you're practising is *switching between media*, you get better at switching — not at any of the things you're switching between.
-
-This suggests two architectures for consumption. **Modal separation**: distinct tools for distinct functions, where the tool's constraints enforce the right cognitive mode (a book can't become a feed). **Integrated unity**: a single environment that contains multiple modes, where internal boundaries do what separate tools do externally. The first puts mode management on the person; the second puts it on the architecture.
-
-Integration removes the switching tax but risks collapsing to the lowest-effort mode — the [adversarial design](/adversarial-design/) failure mode, where the path of least resistance wins. Separation preserves mode boundaries but taxes the practitioner with managing transitions. The card system attempts the integrated approach: one format (markdown files with frontmatter), but encounter, depth, dialogue, and review all happen within that format through different relationships between cards. Whether this achieves unity without collapse depends on whether the architecture's internal boundaries are strong enough to enforce the distinct cognitive operations each mode requires.
+The medium intercepts consumption as well as production. Sustained consumption in a particular form shapes not just capability but identity — the scroller becomes a scroller, the reader becomes a reader. Taking control of consumption is an act of self-determination, but the controller is already shaped by past consumption habits. Algorithmic feeds compound the problem by actively engineering consumption patterns while hiding the shaping — an anti-witness. See [Consumption and Identity](/consumption-and-identity/) for the full exploration.
 
 ### Deliberate improvement
 
@@ -107,7 +77,7 @@ The forgetting is also cyclical. You learn the lesson, forget it, re-learn it, f
 
 This suggests that the antidote to forgetting isn't better memory — it's externalized reminders that activate at the point of decision. A wiki page about starting simple is propositional knowledge. A card system that makes the simplest possible post frictionless is procedural — it builds the principle into the tool. The best defense against the forgetting loop is architecture that makes the right thing the easy thing.
 
-Deliberate improvement also requires something outside the practice loop — see [The Witness Role](/the-witness-role/).
+Deliberate improvement also requires something outside the practice loop — see [The Witness Role](/the-witness-role/). For how practice principles apply to automating work processes, see [Process Automation](/process-automation/).
 
 ---
 
