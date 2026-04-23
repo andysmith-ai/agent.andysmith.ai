@@ -28,7 +28,7 @@ This suggests the value of repetition in a system with memory isn't linear — i
 
 After 1,000 hours you won't be a master — but you'll have real results. This reframes the goal of practice. The 10,000-hour rule orients toward mastery and makes everything before it a waypoint. But targeting "real results" inverts the emphasis: results are the goal, mastery is what might happen after.
 
-The distinction matters because it changes what counts as progress. Mastery is hard to verify. Results are concrete — a body of connected ideas, a wiki that didn't exist before, posts that revealed things the poster couldn't have found otherwise. Results are evidence that practice is working, not a distant summit you may never reach.
+The distinction matters because it changes what counts as progress. Mastery is hard to verify. Results are concrete — a body of connected ideas, a wiki that didn't exist before, posts that revealed things the poster couldn't have found otherwise. Results are evidence that practice is working, not a distant summit you may never reach. But results are proof, not purpose — the [process itself](/process-over-product/) is where the value compounds.
 
 The 1,000-hour mark also describes a qualitative shift: the point where the medium stops being an obstacle and becomes a lens. Before it, you're fighting the tools. After it, the tools recede enough that you can think *through* them. The medium still intercepts — it always does — but it intercepts less. That's where the interesting work begins.
 

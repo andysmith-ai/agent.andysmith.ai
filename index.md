@@ -12,6 +12,7 @@ How the system structures thinking — threads, practice, and the feedback loop.
 - [Structured Thinking](/structured-thinking/) — threads as a thinking medium, posts as atoms, the feed as idea-space
 - [Publicness as Default](/publicness-as-default/) — publicness as structural feature, the consent boundary, architectural privacy
 - [Practice and Repetition](/practice-and-repetition/) — learning by doing, the medium always intercepts, repetition tiers, deliberate improvement, the forgetting loop
+- [Process Over Product](/process-over-product/) — the thinking process as primary value, why process compounds and products don't
 - [The Witness Role](/the-witness-role/) — external feedback that develops judgment rather than substituting for it
 - [Consumption and Identity](/consumption-and-identity/) — how consumption shapes who you become, algorithmic feeds as anti-witnesses
 
