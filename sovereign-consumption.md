@@ -72,6 +72,8 @@ The articulation requirement tells you *why* you follow the people you already f
 
 This turns people-discovery from a serendipity problem into a matching problem. The [embedding space](/embedding-spaces/) may provide the computational infrastructure: if your knowledge map is embedded alongside a thinker's output, geometric proximity between your blank spaces and their dense regions is a signal worth investigating. The map doesn't tell you to trust someone — trust still requires direct engagement — but it tells you where to look.
 
+For the concrete method that operationalizes this — turning a gap on the map into a person worth following — see [Gap Matching](/gap-matching/).
+
 ---
 
-*Cards: [U0084](/U0084/), [A0085](/A0085/), [U0085](/U0085/), [A0086](/A0086/), [U0086](/U0086/), [A0087](/A0087/), [U0087](/U0087/), [A0088](/A0088/), [U0088](/U0088/), [A0089](/A0089/), [U0089](/U0089/), [A0090](/A0090/)*
+*Cards: [U0084](/U0084/), [A0085](/A0085/), [U0085](/U0085/), [A0086](/A0086/), [U0086](/U0086/), [A0087](/A0087/), [U0087](/U0087/), [A0088](/A0088/), [U0088](/U0088/), [A0089](/A0089/), [U0089](/U0089/), [A0090](/A0090/), [U0090](/U0090/), [A0091](/A0091/)*

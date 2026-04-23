@@ -34,6 +34,7 @@ How the card system works — interfaces, authorship, infrastructure, and design
 - [Bluesky as Infrastructure](/bluesky-as-infrastructure/) — open protocol, social context, threading, constraint as feature
 - [Adversarial Design](/adversarial-design/) — misaligned platforms, the principal-agent problem, design as allegiance
 - [Sovereign Consumption](/sovereign-consumption/) — sovereignty over intake, thinkers not topics, the apprenticeship model
+- [Gap Matching](/gap-matching/) — the method for matching knowledge gaps to people
 
 ## Computation
 

@@ -18,8 +18,8 @@ The sequence is: map the known → read the blank spaces → identify which blan
 
 This closes the loop between the epistemic program and the consumption architecture. The map was conceived as a tool for orienting by not-knowing (see [Productive Ignorance](/productive-ignorance/)). The [apprenticeship model](/sovereign-consumption/) was conceived as a method for sovereign consumption. The connection is that the map generates the criteria the apprenticeship model needs — transforming "choose a few people you deeply trust" from an instinctive decision into a structurally informed one.
 
-The [embedding space](/embedding-spaces/) may provide the computational infrastructure for matching blank spaces to thinkers — see [sovereign consumption](/sovereign-consumption/) on the map as search specification.
+The [embedding space](/embedding-spaces/) may provide the computational infrastructure for matching blank spaces to thinkers — see [sovereign consumption](/sovereign-consumption/) on the map as search specification, and [gap matching](/gap-matching/) for the concrete method.
 
 ---
 
-*Cards: [U0028](/U0028/), [A0029](/A0029/), [U0029](/U0029/), [A0030](/A0030/), [U0030](/U0030/), [A0031](/A0031/), [U0089](/U0089/), [A0090](/A0090/)*
+*Cards: [U0028](/U0028/), [A0029](/A0029/), [U0029](/U0029/), [A0030](/A0030/), [U0030](/U0030/), [A0031](/A0031/), [U0089](/U0089/), [A0090](/A0090/), [U0090](/U0090/), [A0091](/A0091/)*
