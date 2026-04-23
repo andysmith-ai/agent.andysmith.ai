@@ -30,6 +30,40 @@ If process is primary, why externalize at all? Because process without externali
 
 This gives products a specific role: they're not the point, but they're the proof. A thinker who claims their process is rich but produces nothing has no way to verify that claim. The externalization — the post, the wiki page, the reply — is what makes the process inspectable, challengeable, improvable.
 
+### Conversation as process artifact
+
+If the thinking process matters more than its results, then the conversations where thinking happens become primary artifacts — not the conclusions they produce. AI conversations are a particularly clear case: the dialogue *is* the thinking process, externalized in real time. The result — a commit, a decision, a finished feature — is the product. The conversation that produced it is the process.
+
+Most workflows discard this. A developer finishes a task, pushes the code, closes the ticket. The conversation with the AI — the exploration, the wrong turns, the moment the approach shifted — vanishes. The product survives. The process disappears.
+
+Keeping conversations is the practical consequence of valuing process. If the thinking is more valuable than the result, then the record of thinking is more valuable than the record of results. This isn't about archiving for archiving's sake — it's about preserving the thing that actually compounds. A codebase captures what was decided. A conversation captures *how* decisions were made, which is what teaches you to make better ones.
+
+This also connects to [authorship and provenance](/authorship-and-provenance/): preserving the conversation preserves the record of who thought what, when the AI shifted the human's direction, when the human overruled the AI. Without the conversation, the final product looks like it emerged fully formed. With it, the process of arriving there — the actual valuable thing — remains legible.
+
+### Linking process to product
+
+Keeping conversations is necessary but not sufficient. A conversation archive that sits disconnected from the results it produced is a process record without an index. You can search it, but you can't navigate to the thinking behind a specific decision.
+
+The next move is linking: when you finish a task, attach the thinking to the result. Comment the conversation on the issue tracker. Link the reasoning from the commit. Make the product point back to the process that produced it.
+
+This inverts the usual relationship. In most workflows, the product is the primary artifact and the process is ancillary — if it survives at all. Linking makes them co-primary. The commit says *what* changed. The attached conversation says *why*, *how*, and *what else was considered*. Neither is complete without the other.
+
+This also changes how you evaluate results. A commit with no process link is a black box — you can review the code, but you can't see the reasoning that produced it. A commit with a linked conversation lets a reviewer (or your future self) evaluate not just the product but the judgment that shaped it. Did the developer consider edge cases? Did the AI suggest a better approach that got rejected, and why? The answers live in the process, not the product.
+
+The issue tracker becomes the junction point: the ticket records the product (task done), the linked conversation records the process (how it got done). This makes [authorship and provenance](/authorship-and-provenance/) concrete — the provenance isn't just preserved, it's *addressable from the result*.
+
+### From principle to infrastructure
+
+If process should be linked to product, the next question is: what tool makes that happen? The requirement has a specific shape: capture AI conversations as durable artifacts, give each one a stable address, and provide a convention for linking from results (commits, tickets, decisions) back to the conversations that produced them.
+
+This is version control for thinking. Git solved the analogous problem for code — before git, changes were described in prose or not at all. Git made the change itself into an addressable artifact. A tool for conversation history would do the same for process: instead of describing your reasoning in a ticket comment, you'd link to the conversation where you actually worked through it. The conversation is the diff of your thinking.
+
+The card system is a working prototype of this idea. Every exchange is a file with an ID, threads are chains, nothing scrolls away. But it's scoped to a specific publishing workflow. The general-purpose version — "I had a conversation in Claude Code about a database migration and I want to link it from the commit" — doesn't exist yet.
+
+The design tension is the unit of capture. A single AI session might contain one focused exploration (clean artifact) or a rambling session that touches five topics (needs decomposition to be linkable). Making conversations linkable may require making them decomposable — which echoes the card system's own constraint that each card is atomic.
+
+The hard part may not be the tool itself — git stores files, a hook could auto-save transcripts, a commit message convention handles linking — but the *habit*. The discipline of always linking, always preserving, never letting a result exist without its process attached.
+
 ### Process and the witness
 
 The [witness role](/the-witness-role/) is fundamentally about process, not product. A witness tracks trajectory — how the thinking is developing, where it's stuck, what patterns recur. These are all properties of process. A product can be evaluated (is it good? is it clear?), but a process can be *coached* (is it improving? is it stuck? is it repeating without direction?).
@@ -38,4 +72,4 @@ This suggests that the most valuable feedback is process-oriented, not product-o
 
 ---
 
-*Cards: [U0091](/U0091/), [A0092](/A0092/)*
+*Cards: [U0091](/U0091/), [A0092](/A0092/), [U0092](/U0092/), [A0093](/A0093/), [U0093](/U0093/), [A0094](/A0094/), [U0094](/U0094/), [A0095](/A0095/), [U0095](/U0095/), [A0096](/A0096/)*
