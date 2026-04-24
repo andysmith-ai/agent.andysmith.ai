@@ -48,6 +48,7 @@ Language as computation — from cards as functions to the declarative principle
 - [Natural Language as Computation](/natural-language-as-computation/) — English as a functional language, cards as pure functions, composition
 - [Ambiguity as Computation](/ambiguity-as-computation/) — non-determinism as a feature, the deterministic subset, the accessibility inversion
 - [The Reconciler Pattern](/the-reconciler-pattern/) — bridging goal states and current reality, conversational type systems, continuous control loops
+- [Stateless Agents](/stateless-agents/) — agents as reconcilers with no local state, state lives in the environment, inspectability and composability
 - [The Declarative Principle](/the-declarative-principle/) — goal-state specification beyond software, planning as reconciliation
 - [The Compiler Answer](/the-compiler-answer/) — describe in English, compile to Lisp, verify through conversation, execute deterministically
 - [Process Automation](/process-automation/) — decompose then compose, clean boundaries, the growth path
